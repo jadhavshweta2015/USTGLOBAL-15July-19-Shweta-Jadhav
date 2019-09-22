@@ -1,0 +1,10 @@
+<div class="container">
+        <div class="col-md-5 card card-body offset-md-3 mt-5">
+           <form method="GET" #register='ngForm' (ngSubmit)='postTask(register)'>
+            <h3 class="text-center">Task Register</h3>
+            <input type="hidden" name="id" #id='ngModel' [(ngModel)]='firebase.selected.id'  class="form-control" >
+           <br><input type="text" name="name" #name='ngModel' [(ngModel)]='firebase.selected.name'  class="form-control">
+           <br><button class="offset-md-5 btn btn-outline-primary" type="submit">Submit</button>
+       </form>
+       </div> 
+   </div>

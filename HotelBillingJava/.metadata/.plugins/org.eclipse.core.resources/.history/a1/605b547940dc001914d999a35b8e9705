@@ -1,0 +1,14 @@
+package com.ustglobal2.hotelbilling.beans;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table
+public class Hotel_Bill {
+	private int Item_Code;
+	private String food_name;
+	private 
+	
+	
+}

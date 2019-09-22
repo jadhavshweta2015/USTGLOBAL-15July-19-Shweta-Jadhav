@@ -1,0 +1,5 @@
+package com.ustglobal2.hotelbilling.dao;
+
+public interface HotelBillInterface {
+
+}

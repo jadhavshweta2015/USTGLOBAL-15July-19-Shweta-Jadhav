@@ -1,0 +1,40 @@
+package com.ustglobal2.hotelbilling.operations;
+
+import com.ustglobal2.hotelbilling.beans.Hotel_Bill;
+import com.ustglobal2.hotelbilling.dao.HotelBillInterface;
+
+public class HotelOperations implements HotelBillInterface {
+
+	public static void main(String[] args) {
+
+	}
+
+	public void showAllItems(Hotel_Bill b) {
+		
+	}
+
+	public void takeOrder(Hotel_Bill b) {
+		
+	}
+
+	public void opearteOnFood(Hotel_Bill b) {
+		
+	}
+
+	public void addFoodItem(Hotel_Bill b) {
+		
+	}
+
+	public void removeFoodItem(Hotel_Bill b) {
+		
+	}
+
+	public void modifyFoodItem(Hotel_Bill b) {
+		
+	}
+
+	public void totalBilling(Hotel_Bill b) {
+		
+	}
+
+}

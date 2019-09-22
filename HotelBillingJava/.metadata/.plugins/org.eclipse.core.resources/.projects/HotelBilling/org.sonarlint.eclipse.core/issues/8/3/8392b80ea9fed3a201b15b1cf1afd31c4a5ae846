@@ -1,0 +1,38 @@
+
+squid:UselessImportCheck"IRemove this unused import 'com.ustglobal2.hotelbilling.beans.Hotel_Bill'.(¶ΚΆΠ8Ζο—Υ-H°RMINORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(η―Άμÿÿÿÿÿ8®χ•Υ-H$RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ίθ¬8®χ•Υ-HRMAJORZ
+CODE_SMELL
+Usquid:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8®χ•Υ-HRBLOCKERZBUG
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(σΤ¦³ύÿÿÿÿ8®χ•Υ-H#RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(±Ζ‚
+8®χ•Υ-H"RMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΠΖθ€ϋÿÿÿÿ8®χ•Υ-H RMAJORZ
+CODE_SMELL
+k
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Τ«βπ8®χ•Υ-H(RMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(»―άιόÿÿÿÿ8®χ•Υ-H'RMAJORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(®Ω‡8®χ•Υ-H!RMAJORZ
+CODE_SMELL
+p
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¥ΥΟθωÿÿÿÿ8®χ•Υ-HRMAJORZ
+CODE_SMELL
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ν‹±8®χ•Υ-H&RMAJORZ
+CODE_SMELL
+p
+squid:S106$"9Replace this use of System.out or System.err by a logger.(»―άιόÿÿÿÿ8®χ•Υ-H%RMAJORZ
+CODE_SMELL

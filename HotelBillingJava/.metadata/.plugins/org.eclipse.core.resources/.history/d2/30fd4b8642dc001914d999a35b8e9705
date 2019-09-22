@@ -1,0 +1,54 @@
+package com.ustglobal2.hotelbilling.mainservice;
+
+import java.util.Scanner;
+
+public class HotelService {
+
+	public static void main(String[] args) {
+		Scanner s=new Scanner(System.in);
+		while(true) {
+			int ch = 0;
+			System.out.println("***********HotelBilling***************");
+			System.out.println("1.Show all food items");
+			System.out.println("2.Take order from cutomers");
+			System.out.println("3.Operate onfood item");
+			System.out.println("4.total bill of the day");
+			System.out.println("Enter ur choice:");
+			ch=s.nextInt();
+			switch(ch) {
+			case 1: 
+				break;
+			case 2:
+				break;
+			case 3:
+				int op=0;
+				while(op<=3) {
+					System.out.println("****************");
+					System.out.println("1.Add food item");
+					System.out.println("2.Remove food item");
+					System.out.println("3.Modify food item");
+					
+					System.out.println("Enter ur choice:");
+					
+					op=s.nextInt();
+					switch(op) {
+					case 1:						
+						break;
+					case 2:
+						   break;
+					case 3:
+						   break;
+					default :
+						break;
+					}
+				}
+				break;
+			case 4:
+				break;
+			default:
+				break;
+			}
+			}
+	}
+
+}

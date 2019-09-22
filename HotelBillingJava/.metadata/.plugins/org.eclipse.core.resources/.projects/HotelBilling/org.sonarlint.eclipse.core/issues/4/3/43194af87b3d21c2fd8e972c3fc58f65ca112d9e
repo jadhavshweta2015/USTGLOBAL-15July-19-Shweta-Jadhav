@@ -1,0 +1,109 @@
+
+`squid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëæğ—Õ-H•RMINORZVULNERABILITY
+r
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8ƒÑ™Õ-H–RMAJORZ
+CODE_SMELL
+r
+squid:S106à"9Replace this use of System.out or System.err by a logger.(›©Óùÿÿÿÿ8ƒÑ™Õ-H—RMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ˆÕÒÊıÿÿÿÿ8ÓøÌ–Õ-H˜RMAJORZ
+CODE_SMELL
+`squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²‘˜Õ-H™RMINORZVULNERABILITY
+Zsquid:S1481"&Remove this unused "s" local variable.(ÇñÚï8²‘˜Õ-HšRMINORZ
+CODE_SMELL
+~squid:S2259§"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8²‘˜Õ-H›RMAJORZBUG
+squid:S2095³"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(õÊ‰ö8È™Ô™Õ-HœRBLOCKERZBUG
+_squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂË³–Õ-HRMINORZVULNERABILITY
+q
+squid:S106*"9Replace this use of System.out or System.err by a logger.(şÀã¨ÿÿÿÿÿ8 Ÿ×–Õ-HRMAJORZ
+CODE_SMELL
+q
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ıŞ–¼øÿÿÿÿ8ƒÑ™Õ-HŸRMAJORZ
+CODE_SMELL
+r
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿ8ƒÑ™Õ-H RMAJORZ
+CODE_SMELL
+r
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿ8ğ…™Õ-H¡RMAJORZ
+CODE_SMELL
+`squid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëûü–Õ-H¢RMINORZVULNERABILITY
+[squid:S1481="'Remove this unused "hh" local variable.(Ï¾»Ê8¾ÏÂ›Õ-H£RMINORZ
+CODE_SMELL
+m
+squid:S106 "9Replace this use of System.out or System.err by a logger.(»„•Ø8ÅæÎ›Õ-H¤RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ÊÖ€Õûÿÿÿÿ8ƒÑ™Õ-H¥RMAJORZ
+CODE_SMELL
+m
+squid:S106´"9Replace this use of System.out or System.err by a logger.(ùŸÌË8µÁ™šÕ-H¦RMAJORZ
+CODE_SMELL
+½squid:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³»ò¶şÿÿÿÿ8£è•Õ-H§RCRITICALZ
+CODE_SMELL
+l
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¤Š”“8µÁ™šÕ-H¨RMAJORZ
+CODE_SMELL
+}squid:S22593"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8ëæğ—Õ-H©RMAJORZBUG
+_squid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÓøÌ–Õ-HªRMINORZVULNERABILITY
+m
+squid:S106·"9Replace this use of System.out or System.err by a logger.(¤¤›¾8ÆŞ–Õ-H«RMAJORZ
+CODE_SMELL
+}squid:S2259m"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8ëûü–Õ-H¬RMAJORZBUG
+r
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(›®áˆúÿÿÿÿ8šäãšÕ-H­RMAJORZ
+CODE_SMELL
+squid:S2068­"V'password' detected in this expression, review this potentially hard-coded credential.(ñ†–¦8ƒÑ™Õ-H®RBLOCKERZVULNERABILITY
+†squid:S1192K"JDefine a constant instead of duplicating this literal "item_code" 3 times.(îòóşÿÿÿÿ8ÅæÎ›Õ-H¯RCRITICALZ
+CODE_SMELL
+`squid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 Ÿ×–Õ-H°RMINORZVULNERABILITY
+r
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿ8 Ÿ×–Õ-H±RMAJORZ
+CODE_SMELL
+l
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¤Š”“8ëæğ—Õ-H²RMAJORZ
+CODE_SMELL
+~squid:S2259é"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8ÓøÌ–Õ-H³RMAJORZBUG
+‡squid:S1192!"PDefine a constant instead of duplicating this literal "TestPersistence" 5 times.(ëÕá8ÓøÌ–Õ-H´RCRITICALZ
+CODE_SMELL
+q
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¡ÖÒÿÿÿÿÿ8ÊõŞ›Õ-HµRMAJORZ
+CODE_SMELL
+m
+squid:S106û"9Replace this use of System.out or System.err by a logger.(Ğİ÷Ó8ÓøÌ–Õ-H¶RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ø±‰Ø8¾ÏÂ›Õ-H·RMAJORZ
+CODE_SMELL
+q
+squid:S106O"9Replace this use of System.out or System.err by a logger.(şÀã¨ÿÿÿÿÿ8ÊõŞ›Õ-H¸RMAJORZ
+CODE_SMELL
+q
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ıŞ–¼øÿÿÿÿ8¿¥¥–Õ-H¹RMAJORZ
+CODE_SMELL
+~squid:S2259"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8·€ŞšÕ-HºRMAJORZBUG
+r
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿ8¿¥¥–Õ-H»RMAJORZ
+CODE_SMELL
+[squid:S1481–"&Remove this unused "s" local variable.(ÇñÚï8Ú‡•–Õ-H¼RMINORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¡ÖÒÿÿÿÿÿ8Óµ…—Õ-H½RMAJORZ
+CODE_SMELL
+Œsquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ìÊ¼øÿÿÿÿ8ÅæÎ›Õ-H¾RMINORZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8£è•Õ-H¿RCRITICALZ
+CODE_SMELL
+q
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ˆÕÒÊıÿÿÿÿ8Ú›Ó–Õ-HÀRMAJORZ
+CODE_SMELL
+r
+squid:S106…"9Replace this use of System.out or System.err by a logger.(Çï¬şÿÿÿÿ8šäãšÕ-HÁRMAJORZ
+CODE_SMELL
+‹squid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëà¸»úÿÿÿÿ8âÖÿ˜Õ-HÂRMINORZ
+CODE_SMELL
+r
+squid:S106â"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿ8ƒÑ™Õ-HÃRMAJORZ
+CODE_SMELL
+r
+squid:S106º"9Replace this use of System.out or System.err by a logger.(”ÈçÛùÿÿÿÿ8Şô‹™Õ-HÄRMAJORZ
+CODE_SMELL
+}squid:S2095®"HUse try-with-resources or close this "Connection" in a "finally" clause.(Æóûÿÿÿÿ8ƒÑ™Õ-HÅRBLOCKERZBUG
