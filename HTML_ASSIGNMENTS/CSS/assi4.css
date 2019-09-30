@@ -1,0 +1,22 @@
+div{
+    display: inline-block
+}
+#i1{
+    background: orangered;
+    margin-left: 700%;
+    margin-top: 27px;
+    border: 1px solid orangered;
+}
+#footer{
+    background-color: black;
+    height: 50px;
+}
+fieldset{
+    width: 50%;
+    background-color: gray;
+
+}
+body{
+    margin-top: 4%;
+    margin-left: 30%;
+}

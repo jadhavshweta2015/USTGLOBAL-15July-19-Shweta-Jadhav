@@ -1,0 +1,21 @@
+/* /*  span{
+    display: inline-block;
+} 
+label{
+    margin-top: 0px;
+    opacity: 0.7;
+}  */
+div{
+    display: inline-block
+}
+fieldset{
+    width: 40%;
+    background: #eee;
+}
+div:hover{
+    background: rgb(252, 228, 206);
+}
+body{
+    margin-top: 6%;
+    margin-left: 30%;
+}

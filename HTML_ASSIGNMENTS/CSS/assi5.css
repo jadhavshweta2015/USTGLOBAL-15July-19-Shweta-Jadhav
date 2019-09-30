@@ -1,0 +1,20 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+th{
+    background: black;
+    color: white;
+}
+td{
+    background: gray;
+}
+#i2{
+    background: black;
+    color: white;
+}
+td:hover{
+    background: white;
+    cursor: pointer;
+}
