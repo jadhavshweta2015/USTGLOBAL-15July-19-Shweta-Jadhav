@@ -1,0 +1,19 @@
+{
+  "name": "typescript-class",
+  "version": "1.0.0",
+  "description": "typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "ts"
+  ],
+  "author": "Shweta",
+  "license": "ISC",
+  "dependencies": {
+    "systemjs": "^0.19.36"
+  }
+}
