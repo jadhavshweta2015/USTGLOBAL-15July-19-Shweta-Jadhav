@@ -1,0 +1,27 @@
+body{
+    background: rgb(245, 244, 244);
+    
+}
+.container{
+    margin-top: 10%;
+}
+/* .navbar{
+    background: blue;
+} */
+.id1{
+    background: rgb(11, 11, 110);
+    height: 100px;
+    widows: 100px;
+}
+.navbar-brand{
+    font-size: 50px;
+    
+}
+#i{
+    height: 100px;
+}
+#i2{
+    margin-top: 35px;
+    background: rgb(12, 241, 12);
+    
+}

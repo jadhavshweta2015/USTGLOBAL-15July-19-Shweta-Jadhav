@@ -1,0 +1,53 @@
+ #icon{
+    margin-left: 80px;
+ }
+li{
+    font-size: 100%;
+    margin-left: 8px; 
+}
+#btn{
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+}
+#back{
+    background-color: rgb(245, 243, 243);
+    background-image: url('/image/header-bg.png');
+    background-size:contain;
+    margin-top: 70px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.jumbotron-fluid {
+    padding-right: 175px;
+    padding-left: 0;
+    border-radius: 0;
+}
+#drop{
+    width: 10%;
+    background: black;
+}
+.btn-primary {
+    height: 106%;
+    color: #fff;
+    background-color: orangered;
+    border-color: orangered;
+    width: 137px;
+}
+#navbarDropdown1{
+    background: white;
+    width: 278px;
+    
+}
+
+#navbarDropdown2{
+    background: white;
+    width: 278px;
+    
+}
+.display-4{
+    font-weight: 600;
+}
+.lead{
+    font-weight: 400;
+}
