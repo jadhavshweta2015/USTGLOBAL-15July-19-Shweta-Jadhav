@@ -1,0 +1,19 @@
+.add{
+    color: red;
+    background: white;
+}
+
+.add1{
+    font-size: 40px;
+}
+
+.form1{
+    width: 50%;
+    background: #eee;
+}
+.input:hover{
+    background: rgb(124, 122, 122);
+}
+.demo1{
+    background: yellow;
+}

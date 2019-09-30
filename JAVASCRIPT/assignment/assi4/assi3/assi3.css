@@ -1,0 +1,25 @@
+.add{
+    color: red;
+    background: white;
+}
+
+.add1{
+    font-size: 40px;
+}
+
+.form1{
+    width: 50%;
+    background: #eee;
+}
+.input:hover{
+    background: rgb(124, 122, 122);
+}
+.demo1{
+    background: yellow;
+}
+#id4{
+    width: 40%;
+    background: #eee;
+    margin-top: 15%;
+    margin-left: 30%;
+}

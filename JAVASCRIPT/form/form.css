@@ -1,0 +1,16 @@
+body{
+    width: 40%;
+    margin-left: 29%;
+    margin-top: 16%;
+}
+fieldset{
+    background: #eee;
+}
+#id1{
+    font-size: 10px;
+    color: red;
+}
+#id2{
+    font-size: 10px;
+    color: red;
+}
