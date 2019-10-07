@@ -1,0 +1,10 @@
+<div class=" col-md-4 offset-md-4 mt-5 card card-body" style="background: lightgray">
+        <h3 class="text-center bg-dark text-white">Add Product</h3>    
+    <form style="background: gray" class="card card-body" #userForm='ngForm' (ngSubmit)='postProduct(userForm.value)'>
+            
+        <input type="hidden" name='id' #id='ngModel' [(ngModel)]='firebaseService.selectedUser.id'>
+            <input type="url" name='image' class='form-control mb-3' #image='ngModel' [(ngModel)]='firebaseService.selectedUser.image' placeholder="Enter url">
+            <input type="text" name='brand' class='form-control mb-3' #brand='ngModel' [(ngModel)]='firebaseService.selectedUser.brand' placeholder="Enter product name">
+            <button style="color: black;font-weight:bold" type="submit" class="btn btn-outline-success float-right">Submit</button>
+    </form>
+</div>

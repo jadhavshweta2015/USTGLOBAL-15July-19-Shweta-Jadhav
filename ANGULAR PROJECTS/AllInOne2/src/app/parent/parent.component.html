@@ -1,0 +1,12 @@
+<!-- <div class="col-md-3 mt-5 float-left">
+    <div class="col-md-12 card card-body" *ngFor='let dogs of Dogs'>
+        <img src="{{dogs.image}}" class="img-top" (click)='show(dogs)' alt="">
+        <h1 class="text-center">{{dogs.breed}}</h1>
+    </div>
+</div>
+<app-child [dogdetails]='dogs'></app-child>
+ -->
+ <div>
+<img src="{{img}}" alt="">
+</div>
+<app-child (event)='img=$event'></app-child>

@@ -1,0 +1,60 @@
+<div class="container col-md-4 offset-md-4 mt-5">
+    <div class="card card-body">
+        <form action="" #loginForm='ngForm' (ngSubmit)='printform(loginForm)'>
+            <div>
+                <h4 class="text-center" style="color: black">
+                    Student Login
+                </h4>
+            </div>
+        <div class="form-group">
+        <input type="text" name="username" class="form-control" #username='ngModel' ngModel placeholder="Enter Username" minlength="6" required aria-describedby="helpId">
+        <div *ngIf='username.touched && username.invalid'>
+            <div class="alert alert-danger" *ngIf='username.errors.minlength'>
+                Invalid username length
+            </div>
+            <div class="alert alert-danger" *ngIf='username.errors.required'>
+                username is required.
+            </div>
+        </div> 
+        </div>
+
+        <div class="form-group">
+                <input type="text" name="password" class="form-control" #password='ngModel' ngModel placeholder="Enter password" minlength="6" required aria-describedby="helpId">
+                <div *ngIf='password.touched && username.invalid'>
+                    <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                        Invalid password length
+                    </div>
+                    <div class="alert alert-danger" *ngIf='password.errors.required'>
+                            password is required.
+                    </div>
+                </div> 
+                </div>
+
+        <div>
+            <button class="offset-md-5 bg-primary" [disabled]='loginForm.invalid' type="submit">Login</button>
+        </div>
+    </form>
+    </div>
+</div>
+
+
+<div class="container mt-5">
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Index</th>
+                <th>Username</th>
+                <th>Password</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor='let stud of Student,index as i'>
+                <th>{{i+1}}</th>
+                <th>{{stud.username}}</th>
+                <th>{{stud.password}}</th>
+                <button class="btn btn-outline-danger"  (click)='delete(stud)'>Delete</button>
+            </tr>
+        </tbody>
+    </table>
+</div>

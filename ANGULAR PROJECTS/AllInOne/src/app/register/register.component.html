@@ -1,0 +1,80 @@
+<div class="container">
+    <div class="card card-body col-md-5 offset-md-4 mt-5">
+        <form action=""   [formGroup]="registerForm" (ngSubmit)="'printForm(registerForm)'">
+                <legend for="name" class="text-center">Register</legend>
+            <div class="form-group">
+                
+                <input type="text" name="name" formControlName='name' id="" class="form-control" placeholder="enter name">
+                <div *ngIf='name.touched && name.invalid'>
+                    <div class="alert alert-danger" *ngIf='name.errors.minlength'>
+                        name req minimum length 5
+                    </div>
+                    <div class="alert alert-danger" *ngIf='name.errors.required'>
+                        name is required
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="text" name="address" formControlName="address" id="" class="form-control" placeholder="enter address" aria-describedby="helpId">
+                <div *ngIf='address.touched && address.invalid'>
+                        <div class="alert alert-danger" *ngIf='address.errors.minlength'>
+                            name req minimum length 5
+                        </div>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <input type="email" name="email" formControlName="email" id="" class="form-control" placeholder="Enter email" aria-describedby="helpId">
+                <div *ngIf='email.touched && email.invalid'>
+                        <div class="alert alert-danger" *ngIf='email.errors.email'>
+                            valid email
+                        </div>
+                        <div class="alert alert-danger" *ngIf='email.errors.minlength'>
+                            name is required
+                        </div>
+                        <div class="alert alert-danger" *ngIf='email.errors.noSpace'>
+                                no space is allowed
+                            </div>
+                    </div>
+            </div>
+
+            <div class="form-group">
+                <input type="tel" name="number" formControlName="number" id="" class="form-control" placeholder="Enter number" aria-describedby="helpId">
+                <div *ngIf='number.touched && number.invalid'>
+                        
+                        <div class="alert alert-danger" *ngIf='number.errors.minlength'>
+                            number  required min 10 no.
+                        </div>
+                    </div>
+            </div>
+
+            <div class="form-group">
+                <input type="text" name="username" formControlName="username" id="" class="form-control" placeholder="Enter username" aria-describedby="helpId">
+                <div *ngIf='username.touched && username.invalid'>
+                        <div class="alert alert-danger" *ngIf='username.errors.minlength'>
+                            name req minimum length 5
+                        </div>
+                </div>
+            </div>
+
+                <div class="form-group">
+                    <input type="text" name="password" formControlName="password" id="" class="form-control" placeholder="Enter password" aria-describedby="helpId">
+                    <div *ngIf='password.touched && password.invalid'>
+                            <div class="alert alert-danger" *ngIf='password.errors.email'>
+                                password is required
+                            </div>
+                            <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                                number  required min 5 no.
+                            </div>
+                        </div>
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-outline-primary" (click)='printForm(registerForm)' [disabled]='registerForm.invalid'>Submit</button>
+                    <button type="reset" class="btn btn-outline-danger">Reset</button>
+
+                </div>
+        </form>
+    </div>
+</div>

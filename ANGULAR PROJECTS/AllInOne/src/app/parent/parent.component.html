@@ -1,0 +1,10 @@
+ <!-- <input type="url" [(ngModel)]='inputData'> 
+ <div>
+ <img src="{{inputData}}" alt="">
+</div>
+ <h1>{{inputData}}</h1> -->
+ <!-- <app-child  (dataFromChild)='inputData=$event'></app-child> -->
+<div>
+<img src="{{img}}" alt=""> 
+</div>
+<app-child (dataFromChild)='img=$event' ></app-child>

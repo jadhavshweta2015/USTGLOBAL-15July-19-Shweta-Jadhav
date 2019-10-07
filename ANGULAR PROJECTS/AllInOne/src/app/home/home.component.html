@@ -1,0 +1,31 @@
+<!-- <h1>{{name}}</h1>
+<p [class]='textClass'>{{name}}</p>
+<p [class]='redColor' [class]=!redColor>{{name}}</p>
+<p [style.background]='background' [style.background]="redColor? 'green':'black'" [style.padding]='padding'>{{name}}</p>
+
+<table class="table-bordered">
+    <tr>
+        <th>name</th>
+        <th [attr.colspan]='colspan'>mbl</th>
+    </tr>
+    <tr>
+        <th>shweta</th>
+        <th>2342</th>
+        <th>56686</th>
+    </tr>
+</table>
+
+
+
+<p [ngStyle]="{'padding':isAplicable? '10px':'60px','background':redColor? 'green':'red'}">htfyjf</p>
+<p [ngClass]='ClassArray'>jadhav</p> -->
+<!-- <p [ngClass]='{"bg-warning":"isAplicable"}'>ghfjh</p -->
+
+    <img [src]="img">
+    <h1 [class.bg-dark]="isActive" [class.text-white]="isActive">{{name}}</h1>
+    <h1 [ngClass]='{"bg-dark":isActive,"text-white":isActive}'>{{name}}</h1>
+    <h1 [style.color]="color">{{name}}</h1>
+    <h1 [ngStyle]="{'color':color,'background-color':color1}">{{name}}</h1>
+    <button (click)="print()" type="submit" >click</button>
+    <input  type="text" [(ngModel)]="search" placeholder="type something" class="form-control col-md-4 offset-4">
+    <h1 class="form-control col-md-4 offset-4">{{search}}</h1>

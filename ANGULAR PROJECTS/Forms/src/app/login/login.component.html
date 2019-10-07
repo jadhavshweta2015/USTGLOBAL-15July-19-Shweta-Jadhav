@@ -1,0 +1,57 @@
+<div class="container card card-body col-md-4 mt-5 bg-warning ">
+<form action="" method="POST" role="form" #loginForm='ngForm' (ngSubmit)='printForm(loginForm)'  >
+    <legend class="text-center">LOGIN</legend>
+
+    <div class="form-group">
+        <label for="username">Username</label>
+        <input type="email" class="form-control" id="" placeholder="Enter email" name="username" #username='ngModel' ngModel required minlength="5" email>
+        <div *ngIf='username.touched && username.invalid'>
+            <div class="alert alert-danger" *ngIf='username.errors.email'>
+                This input field take only email 
+            </div>
+            <div class="alert alert-danger" *ngIf='username.errors.minlength'>
+                Minimum length of this input field is 5
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="" placeholder="Enter Password" name="password" #password='ngModel' ngModel required min="6" pattern="shweta" password> 
+        <div *ngIf='password.touched && password.invalid'>
+             <div class="alert alert-danger" *ngIf='password.errors.pattern'>
+                This input field take only pattern
+            </div> 
+            <div class="alert alert-danger" *ngIf='password.errors.min'>
+                Minimum length of this input field is 6
+            </div>
+        </div>
+
+    </div>
+
+    
+    <div class="offset-md-4 btn-group ">
+    <button type="submit" class="btn btn-outline-primary " (click)='printForm(loginForm)' [disabled]='loginForm.invalid' >Login</button>
+    <button type="submit" class="btn btn-outline-primary ml-3">Reset</button>
+    </div>
+
+</form>
+</div>
+
+<table class="table-hover table-bordered table-dark">
+    <tr >
+        <th>
+            id
+        </th>
+        <th>
+            username
+        </th>
+        <th>
+            password
+        </th>
+    </tr>
+    <tr *ngFor='let user of users; index as i'>
+        <td>{{i+1}}</td>
+        <td>{{user.username}}</td>
+        <td>{{user.password}}</td>
+    </tr>
+</table>

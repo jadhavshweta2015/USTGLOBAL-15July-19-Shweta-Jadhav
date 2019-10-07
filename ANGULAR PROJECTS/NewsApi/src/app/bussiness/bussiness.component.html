@@ -1,0 +1,11 @@
+<div class="container col-md-7">
+    <div class="card card-body col-md-12 mt-4" *ngFor='let bussi of bussiness'>
+        <a href="">
+            <img src="{{bussi.urlToImage}}" alt="" class="card-img-top float-left">
+        </a>
+            <h3>{{bussi.title}}</h3>
+            <p>{{bussi.description}}</p>
+            <a href="{{bussi.url}}" class="btn btn-primary">click here for more</a>
+        
+    </div>
+</div>

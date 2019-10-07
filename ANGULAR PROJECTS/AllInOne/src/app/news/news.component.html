@@ -1,0 +1,7 @@
+<div class="container col-md-7">
+    <div class="card card-body" *ngFor='let n of News'>
+        <img src="{{n.urlToImage}}" alt="" class="card card-body">
+        <h4>{{n.title}}</h4>
+        <p>{{n.description}}</p>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="container mt-5">
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Book</th>
+            <th>Author</th>
+            <th>Quantity</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor='let book of firebaseService.Books;index as i'>
+            <td>{{i+1}}</td>
+            <td>{{book.name}}</td>
+            <td>{{book.author}}</td>
+            <td>{{book.number}}</td>
+            <td><button class="btn btn-outline-primary" (click)='updateUser(book)'>Update</button></td>
+            <td><button class="btn btn-outline-primary" (click)='deleteUser(book)'>Delete</button></td>
+
+        </tr>
+    </tbody>
+</table>
+</div>

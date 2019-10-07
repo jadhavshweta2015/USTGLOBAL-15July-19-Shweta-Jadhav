@@ -1,0 +1,11 @@
+<div class="container">
+     <div class="col-md-5 card card-body offset-md-3 mt-5">
+        <form method="GET" #userForm='ngForm' (ngSubmit)='postUser(userForm)'>
+            <h3 class="text-center">Car Details</h3>
+        <input type="hidden" name="id" #id='ngModel' [(ngModel)]='namu.selectedUser.id'  class="form-control" >
+        <br><input type="text" name="name" #name='ngModel' [(ngModel)]='namu.selectedUser.name'  class="form-control" placeholder="Enter name">
+        <br><input type="number" name="prise" #prise='ngModel' [(ngModel)]='namu.selectedUser.prise'  class="form-control" placeholder="Enter prise">
+        <br><button class="offset-md-5" type="submit">Submit</button>
+    </form>
+    </div> 
+</div>

@@ -1,0 +1,13 @@
+<div class="col-md-4 offset-md-4 mt-4">
+    <h3 class="text-center">Add Car</h3>
+    <form #userForm='ngForm' (ngSubmit)='postUser(userForm)'>
+            <input type="hidden" name='id' #id='ngModel' [(ngModel)]='firebaseService.selectedUser.id'>
+
+            <input type="text" name='brand' class='form-control mb-3' #brand='ngModel' [(ngModel)]='firebaseService.selectedUser.brand' placeholder="Enter car Brand">
+            <input type="text" name='model' class='form-control mb-3' #model='ngModel' [(ngModel)]='firebaseService.selectedUser.model' placeholder="Enter car model">
+            <input type="date" name='release' class='form-control mb-3' #release='ngModel' [(ngModel)]='firebaseService.selectedUser.release' placeholder="Enter car release data">
+            <input type="number" name='cost' class='form-control mb-3' #cost='ngModel' [(ngModel)]='firebaseService.selectedUser.cost' placeholder="Enter car cost">
+            <input type="number" name='unit' class='form-control mb-3' #unit='ngModel' [(ngModel)]='firebaseService.selectedUser.unit' placeholder="Enter car unit">
+            <button type="submit" class="btn btn-outline-success float-right">Submit</button>
+    </form>
+</div>

@@ -1,0 +1,11 @@
+<div class="container col-md-7">
+    <div class="card card-body col-md-12 mt-4" *ngFor='let enter of entertainment'>
+        <a href="">
+            <img src="{{enter.urlToImage}}" alt="" class="card-img-top float-left">
+        </a>
+            <h3>{{enter.title}}</h3>
+            <p>{{enter.description}}</p>
+
+            <a href="{{enter.url}}" class="btn btn-primary">click here for more</a>
+    </div>
+</div>

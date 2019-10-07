@@ -1,0 +1,11 @@
+<!-- <div class="container"> -->
+        <div class="col-md-3 mt-4 float-left">
+                <div class="card card-body" *ngFor='let res of Receipe'>
+                    <img src="{{res.img}}" class="card-img-top" alt="" (click)='sendeceipe(res)'>
+                    <h4 class="card-title text-center">{{res.reciepe}}</h4>
+        
+                </div>
+        
+            </div>
+  <app-receipe-details [receipeDetails]='receipeData'></app-receipe-details>
+<!-- </div> -->

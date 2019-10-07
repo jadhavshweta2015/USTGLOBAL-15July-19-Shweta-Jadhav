@@ -1,0 +1,28 @@
+<!-- <div class="container col-md-7 " >
+    <div class="card card-body col-md-12" style="background: gray" *ngFor='let typi of typicode'>
+        <h3>{{typi.userId}}</h3>
+        <h3>{{typi.id}}</h3>
+        <h3>{{typi.title}}</h3>
+        <p>{{typi.body}}</p>
+    </div>
+</div> -->
+
+
+<div class="container">
+<div class="table table-bordered table-hover">
+    <thead class="thead-dark"> 
+        <th>Userid</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Body</th>
+    </thead>
+    <tbody >
+        <tr *ngFor='let typi of typicode'>
+        <td>{{typi.userId}}</td>
+        <td>{{typi.id}}</td>
+        <td>{{typi.title}}</td>
+        <td>{{typi.body}}</td>
+    </tr>
+    </tbody>
+</div>
+</div>

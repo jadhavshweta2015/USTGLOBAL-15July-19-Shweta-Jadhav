@@ -1,0 +1,8 @@
+<div class="container col-md-5 mt-5 card card-body">
+<form action="" #login='ngForm' (ngSubmit)='postUser(login)'>
+    <input type="hidden" name="id" #id='ngModel' [(ngModel)]='firebaseservice.selectedUser.id'>
+    <input type="text" name="name" #name='ngModel' [(ngModel)]='firebaseservice.selectedUser.name' class="form-control" placeholder="enter name" ><br>
+    <input type="number" name="age" #age='ngModel' [(ngModel)]='firebaseservice.selectedUser.age' id="" class="form-control" placeholder="enter age" ><br>
+   <button type="submit" class="btn btn-outline-primary float-right">login</button>
+</form>
+</div>

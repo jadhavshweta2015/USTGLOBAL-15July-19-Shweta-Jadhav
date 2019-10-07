@@ -1,0 +1,22 @@
+<div class="container">
+    <table class="table table-bordered  table-hover mt-5">
+        <thead class="thead-dark">
+        <tr >
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor='let car of namu.Cars;index as i'>
+            <td>{{i+1}}</td>
+            <td>{{car.name}}</td>
+            <td>{{car.prise}}</td>
+            <td><button class="btn btn-outline-primary" (click)='updateUser(car)'>Update</button></td>
+            <td><button class="btn btn-outline-danger" (click)='deleteUser(car)'>Delete</button></td>
+        </tr>
+    </tbody>
+    </table>
+</div>

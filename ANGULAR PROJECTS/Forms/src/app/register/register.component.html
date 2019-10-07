@@ -1,0 +1,94 @@
+<div class="container card card-body col-md-4 mt-5 bg-warning ">
+    <form action="" method="POST" role="form" [formGroup]='registerForm' (ngSubmit)='printForm(registerForm)'>
+        <legend class="text-center">REGISTER FORM</legend>
+    
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" name="name" class="form-control" id="" formControlName='name' placeholder="Enter name" required>
+            <div *ngIf='name.touched && name.invalid'>
+                <!-- <div class="alert alert-danger" *ngIf='name.errors.required'>
+                    This input field take only valid name 
+                </div> -->
+                <div class="alert alert-danger" *ngIf='name.errors.minlength'>
+                    Minimum length of this input field is 5
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="address">Address</label>
+            <input type="text" name="address" class="form-control" id="" formControlName='address' placeholder="Enter Address">
+            <div *ngIf='address.touched && address.invalid'>
+                <div class="alert alert-danger" *ngIf='address.errors.required'>
+                    This input field is required 
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="mblno">Mobile No</label>
+            <input type="tel" name="mblno" class="form-control" id="" formControlName='mblno' placeholder="Enter Mobile number">
+            <div *ngIf='mblno.touched && mblno.invalid'>
+                <div class="alert alert-danger" *ngIf='name.errors.required'>
+                    This input field take only valid name 
+                </div>
+                <div class="alert alert-danger" *ngIf='mblno.errors.minlength'>
+                    Minimum length of this input field is 10
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="email">Email Id</label>
+            <input type="email" name="email" class="form-control" id="" formControlName='email' placeholder="Enter email id">
+            <div *ngIf='email.touched && email.invalid'>
+                <div class="alert alert-danger" *ngIf='email.errors.email'>
+                    This input field take only email 
+                </div>
+                <div class="alert alert-danger" *ngIf='email.errors.minlength'>
+                    Minimum length of this input field is 5
+                </div>
+                <div class="alert alert-danger" *ngIf='email.errors.noSpace'>
+                    no space is valid
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" name="username" class="form-control" id="" formControlName='username' placeholder="Enter Username">
+            <div *ngIf='username.touched && username.invalid'>
+                <div class="alert alert-danger" *ngIf='name.errors.required'>
+                    This input field take only valid name 
+                </div>
+                <div class="alert alert-danger" *ngIf='username.errors.minlength'>
+                    Minimum length of this input field is 5
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="text" name="password" class="form-control" id="" formControlName='password' placeholder="Enter Password">
+            <div *ngIf='password.touched && password.invalid'>
+                <div class="alert alert-danger" *ngIf='password.errors.required'>
+                    This input field take only valid password 
+                </div>
+                <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                    Minimum length of this input field is 5
+                </div>
+            </div>
+        </div>
+        
+        <div class="offset-md-4 btn-group ">
+        <button type="submit" class="btn btn-outline-primary" (click)='printForm(registerForm)' [disabled]='registerForm.invalid'>Register</button>
+        <button type="reset" class="btn btn-outline-primary ml-3">Reset</button>
+        </div>
+    
+    </form>
+    </div>

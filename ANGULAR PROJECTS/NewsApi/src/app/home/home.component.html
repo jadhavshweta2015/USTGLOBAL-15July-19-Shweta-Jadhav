@@ -1,0 +1,51 @@
+<div class="row" style="background: gray">
+<div class="col-md-3">
+    <div class="card card-body mt-4" *ngFor='let sport of sports'>
+        <a href="">
+            <img src="{{sport.urlToImage}}" alt="" class="card-img-top float-left">
+        </a>
+            <h3>{{sport.title}}</h3>
+            <p>{{sport.description}}</p>
+            <a href="{{sport.url}}" class="btn btn-primary">click here for more</a>
+
+
+        
+    </div>
+</div>
+<div class=" col-md-6">
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide col-md-12" data-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                      <img src="{{enter.urlToImage}}" class="d-block w-100" alt="...">
+                  </div>
+                  
+                </div>
+              </div>
+
+
+    <div class=" col-md-12" >
+    <div class="card card-body mt-4" *ngFor='let enter of entertainment'>
+        <a href="">
+            <img src="{{enter.urlToImage}}" alt="" class="card-img-top float-left">
+        </a>
+            <h3>{{enter.title}}</h3>
+            <p>{{enter.description}}</p> 
+            <a href="{{enter.url}}" class="btn btn-primary">click here for more</a>
+  
+    </div>
+    </div>
+</div>
+<div class=" col-md-3">
+    <div class="card card-body mt-4" *ngFor='let tech of technology'>
+        <a href="">
+            <img src="{{tech.urlToImage}}" alt="" class="card-img-top float-left">
+        </a>
+            <h3>{{tech.title}}</h3>
+            <p>{{tech.description}}</p>
+            <a href="{{tech.url}}" class="btn btn-primary">click here for more</a>
+
+        
+    </div>
+</div>
+</div>

@@ -1,0 +1,12 @@
+<div class="container">
+    <div class="col-md-6 offset-md-3 card card-body mt-5">
+        <form #Form='ngForm' (ngSubmit)='postUser(Form)'>
+            <h3 class="text-center">BooksEntry</h3>
+            <input type="hidden" name='id' #id='ngModel' [(ngModel)]='firebaseService.selectedUser.id'>
+        <input type="text" name="name" class="form-control" #name='ngModel' [(ngModel)]='firebaseService.selectedUser.name' placeholder="Enter Book name" required><br>
+        <input type="text" name="author" class="form-control" #author='ngModel' [(ngModel)]='firebaseService.selectedUser.author' placeholder="Enter Author name" required><br>
+        <input type="number" name="number" class="form-control" #number='ngModel' [(ngModel)]='firebaseService.selectedUser.number' placeholder="Enter Bokk quantity" ><br>
+        <button type="submit" class="btn btn-outline-danger offset-md-5"  >Submit</button>
+    </form>
+    </div>
+</div>

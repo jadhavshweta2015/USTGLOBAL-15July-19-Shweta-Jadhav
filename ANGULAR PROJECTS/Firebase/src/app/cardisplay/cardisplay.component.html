@@ -1,0 +1,30 @@
+<div class="container mt-4">
+    <input type="search" class="form-control" [(ngModel)]='search'>
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Brand</th>
+                <th>Model</th>
+                <th>Year of Release</th>
+                <th>cost</th>
+                <th>No of Unit</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+            <tbody>
+            <tr *ngFor='let car of firebaseService.cars;index as i'>
+                <td>{{i+1}}</td>
+                <td>{{car.brand | titlecase}}</td>
+                <td>{{car.model}}</td>
+                <td>{{car.release}}</td>
+                <td>{{car.cost}}</td>
+                <td>{{car.unit}}</td>
+                <td><button class="btn btn-outline-warning" (click)='updateUser(car)'>Update</button></td>
+                <td><button class="btn btn-outline-danger" (click)='deleteUser(car)'>delete</button></td>
+            </tr>
+        </tbody>
+        
+    </table>
+</div>

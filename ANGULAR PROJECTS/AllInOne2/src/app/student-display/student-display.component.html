@@ -1,0 +1,22 @@
+<div class="col-md-12 card card-body">
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>name</th>
+                <th>age</th>
+                <th>Updaate</th>
+                <th>delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor='let stud of firebaseservice.Student;index as i'>
+            <td>{{i+1}}</td>
+            <td>{{stud.name}}</td>
+            <td>{{stud.age}}</td>
+            <td><button class="btn btn-outline-primary" (click)='updateUser(stud)'>Update</button></td>
+            <td><button class="btn btn-outline-primary" (click)='deleteUser(stud)'>Delete</button></td>
+        </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,51 @@
+<div class="container col-md-5 mt-5">
+    <div class="card card-body">
+    <form action="" #login='ngForm' (ngSubmit)='print(login)'>
+        <div class="form-group">
+            <label for=""></label>
+            <input type="text" name="username" #username='ngModel' ngModel id="" class="form-control" placeholder="Enter username" minlength="6" required>
+            <div *ngIf='username.touched && username.invalid'>
+                <div class="alert alert-danger" *ngIf='username.errors.minlength'>
+                    invalid username length
+                </div>
+                <div class="alert alert-danger" *ngIf='username.errors.required'>
+                    username req
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+                <label for=""></label>
+                <input type="password" name="password" #password='ngModel' ngModel id="" class="form-control" placeholder="Enter password" minlength="6" required>
+                <div *ngIf='password.touched && password.invalid'>
+                    <div class="alert alert-danger" *ngIf='password.errors.minlength'>
+                       invalid password length
+                    </div>
+                    <div class="alert alert-danger" *ngIf='password.errors.required'>
+                        req
+                    </div>
+                </div>
+        </div>
+        <button type="submit" (click)='print(login)' class="btn btn-success offset-md-5" [disabled]=login.invalid>Login</button>
+    </form>
+</div>
+</div>
+
+
+<table class="container col-md-5 mt-5 table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>username</th>
+            <th>password</th>
+            <th>delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor='let stud of Student,index as i'>
+            <td>{{i+1}}</td>
+            <td>{{stud.username}}</td>
+            <td>{{stud.password}}</td>
+            <td><button class="btn btn-outline-danger" (click)='delete(stud)'>delete</button></td>
+        </tr>
+    </tbody>
+</table>
