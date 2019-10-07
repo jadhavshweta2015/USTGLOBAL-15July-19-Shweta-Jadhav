@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="col-md-6 offset-md-3 card card-body mt-4">
+        <form action="" method="POST" role="form" #taskForm='ngForm' (ngSubmit)='addDetails(taskForm)'>
+            <div style="background: black">
+            <legend class="text-center" style="color: white">Task Form</legend>
+            </div>
+            <div class="form-group">
+                <label for="taskName">Task Name</label>
+                <input type="text" class="form-control" id="" name="task_name" #task_name='ngModel' ngModel>
+            </div>
+
+            <button type="submit" class="btn btn-outline-success float-right">Submit</button>
+        </form>
+    </div>
+</div>
