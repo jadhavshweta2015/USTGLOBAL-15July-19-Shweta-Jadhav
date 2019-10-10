@@ -1,0 +1,12 @@
+package com.ustglobal.ustspringmvc.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.orm.jpa.LocalEntityManagerFactoryBean;
+
+@Configuration
+public class ORMConfig {
+
+	public void ormConfiguration() {
+		LocalEntityManagerFactoryBean bean=new LocalEntityManagerFactoryBean();
+	}
+}

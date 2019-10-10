@@ -1,0 +1,6 @@
+package com.ustglobal.ustspringboot.controller;
+
+@ControllerAdvice
+public class ExceptionHandler {
+
+}

@@ -1,0 +1,5 @@
+
+”squid:S1488g"[Immediately return this expression instead of assigning it to the temporary variable "emp".(ûâÿÿÿÿÿ8Îì„»Ø-HùRMINORZ
+CODE_SMELL
+_squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õĞ¸ºØ-HøRMINORZVULNERABILITY
+”squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(‚ÑÖÚøÿÿÿÿ8ò¡ÿ¹Ø-H÷RBLOCKERZVULNERABILITY

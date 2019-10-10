@@ -1,0 +1,12 @@
+package com.ustglobal.ustspringmvc.dto;
+
+import java.util.List;
+
+public class EmployeeResponse {
+
+	private int statusCode;
+	private String message;
+	private String description;
+	private List<Employee> employee;
+	
+}

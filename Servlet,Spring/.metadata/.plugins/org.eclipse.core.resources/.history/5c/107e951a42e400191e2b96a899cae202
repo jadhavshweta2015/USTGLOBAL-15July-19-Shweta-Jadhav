@@ -1,0 +1,5 @@
+package com.ustglobal.ustspringmvc.dao;
+
+public interface EmployeeDao {
+
+}

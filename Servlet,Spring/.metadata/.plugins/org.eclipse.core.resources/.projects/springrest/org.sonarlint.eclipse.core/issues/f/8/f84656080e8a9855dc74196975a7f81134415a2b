@@ -1,0 +1,7 @@
+
+squid:S1192'"HDefine a constant instead of duplicating this literal "success" 5 times.(–¤š„8é§ÔÙ-HRCRITICALZ
+CODE_SMELL
+„squid:S1192#"HDefine a constant instead of duplicating this literal "Failure" 5 times.(ÌÁÃ£ıÿÿÿÿ8é§ÔÙ-HRCRITICALZ
+CODE_SMELL
+squid:S4684A"@Replace this persistent entity with a simple POJO or DTO object.(£ï·€øÿÿÿÿ8ú×Ä²Ù-HòRCRITICALZVULNERABILITY
+zsquid:S4684P"@Replace this persistent entity with a simple POJO or DTO object.(ƒÇ»ğ8ú×Ä²Ù-HóRCRITICALZVULNERABILITY

@@ -1,0 +1,12 @@
+package com.ustglobal.ustspringboot.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.ustglobal.ustspringboot.dto.Employee;
+
+
+public interface EmployeeRepository extends JpaRepository<Employee,Integer> {
+
+	@Query("update employe")
+	public void update();
+}

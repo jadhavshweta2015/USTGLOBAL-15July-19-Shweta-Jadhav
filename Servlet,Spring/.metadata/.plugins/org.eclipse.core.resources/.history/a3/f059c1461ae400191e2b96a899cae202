@@ -1,0 +1,50 @@
+package com.ustglobal.ustspringmvc.controller;
+
+import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import com.ustglobal.ustspringmvc.dto.Employee;
+
+@Controller
+@RequestMapping("/hello")
+public class HelloWorldController {
+	@RequestMapping(path="/world",method=RequestMethod.GET)
+	public String hello(ModelMap map) {
+		map.addAttribute("msg", "HelloWorld!!!!!!!!!!!");
+		return "index";
+	}
+	
+	@RequestMapping(path="/query",method=RequestMethod.GET)
+	public String getInfo(@RequestParam("id") int id,@RequestParam("name")String name,ModelMap map) {
+		map.addAttribute("id", id);
+		map.addAttribute("name",name);
+		return "Info";
+	}
+	
+	@RequestMapping(path="/form-page",method=RequestMethod.GET)
+	public String getForm() {
+		return "Form";
+	}
+	
+	@RequestMapping(path="/Form",method=RequestMethod.POST)
+	public String formData(Employee emp,ModelMap map) {
+		map.addAttribute("id", emp.getId());
+		map.addAttribute("name", emp.getName());
+		map.addAttribute("email", emp.getEmail());
+		map.addAttribute("password", emp.getPassword());
+		return "Info";
+	}
+	
+	@RequestMapping(path="/add-cookies",method=RequestMethod.GET)
+	public String addCookie(HttpServletResponse resp) {
+		Cookie cookie=new Cookie("name","namrata");
+		resp.addCookie(cookie);
+		return "cookies";
+	}
+}

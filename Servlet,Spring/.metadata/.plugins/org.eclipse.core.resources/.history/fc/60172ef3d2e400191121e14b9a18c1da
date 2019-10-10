@@ -1,0 +1,36 @@
+package com.ustglobal.ustspringmvc.service;
+
+import java.util.List;
+
+import com.ustglobal.ustspringmvc.dao.EmployeeDao;
+import com.ustglobal.ustspringmvc.dto.Employee;
+
+public class EmployeeServiceImpl implements EmployeeService {
+
+	private EmployeeDao dao;
+	@Override
+	public Employee auth(String email, String password) {
+		return null;
+	}
+
+	@Override
+	public boolean register(Employee employee) {
+		return false;
+	}
+
+	@Override
+	public boolean deleteEmployee(int id) {
+		return false;
+	}
+
+	@Override
+	public boolean update(Employee employee) {
+		return false;
+	}
+
+	@Override
+	public List<Employee> getAllEmployee() {
+		return null;
+	}
+
+}

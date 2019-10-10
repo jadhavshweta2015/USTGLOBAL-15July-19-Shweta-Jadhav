@@ -1,0 +1,17 @@
+package com.ust.ustspringbootfinal.dto;
+
+import java.util.Date;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="task_info")
+public class Task {
+
+	
+	private int task_id;
+	private String task;
+	private Date task_start_date;
+	private Date task_end_date;
+}

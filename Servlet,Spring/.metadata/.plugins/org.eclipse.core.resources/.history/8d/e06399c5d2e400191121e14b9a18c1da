@@ -1,0 +1,39 @@
+package com.ustglobal.ustspringmvc.service;
+
+import java.util.List;
+
+import com.ustglobal.ustspringmvc.dto.Employee;
+
+public class EmployeeServiceImpl implements EmployeeService {
+
+	@Override
+	public Employee auth(String email, String password) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean register(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean deleteEmployee(int id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean update(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public List<Employee> getAllEmployee() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

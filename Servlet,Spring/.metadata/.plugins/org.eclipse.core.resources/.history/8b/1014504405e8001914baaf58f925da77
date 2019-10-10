@@ -1,0 +1,12 @@
+package com.ustglobal.ustspringboot.controller;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+@ControllerAdvice
+public class ExceptionHandler {
+
+	
+	public void catchException() {
+		System.out.println("handlervException");
+	}
+}

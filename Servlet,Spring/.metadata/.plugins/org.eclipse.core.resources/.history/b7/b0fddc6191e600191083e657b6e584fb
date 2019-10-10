@@ -1,0 +1,20 @@
+package com.dev.springrest.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import com.dev.springrest.dto.Employee;
+import com.dev.springrest.service.EmployeeService;
+
+public class EmployeeController {
+
+	@Autowired
+	private EmployeeService service;
+	
+	@GetMapping("/get")
+	public Employee getEmployee(@RequestParam("id")int id) {
+		return service.getEmployee(id);
+		
+	}
+}

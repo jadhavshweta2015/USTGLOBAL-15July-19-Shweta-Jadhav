@@ -1,0 +1,11 @@
+
+…squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ø¢°Ç8§Õ¥£Ö-HŒRMAJORZBUG
+Zsquid:S1148*"#Use a logger to log this exception.(Ü˜­8–‚¥Ö-H²RMINORZVULNERABILITY
+isquid:S1481"0Remove this unused "empInfoBean" local variable.(Ç¼¹ìÿÿÿÿÿ8–‚¥Ö-H³RMINORZ
+CODE_SMELL
+[squid:S1068"'Remove this unused "imp" private field.(ø¢°Ç8–‚¥Ö-H´RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’Äˆÿùÿÿÿÿ8–‚¥Ö-HµRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¦—õš8–‚¥Ö-H¶RMAJORZ
+CODE_SMELL

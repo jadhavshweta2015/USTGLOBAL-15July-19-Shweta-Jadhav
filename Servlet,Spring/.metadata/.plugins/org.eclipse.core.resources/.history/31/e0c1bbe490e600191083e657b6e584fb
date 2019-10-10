@@ -1,0 +1,10 @@
+package com.dev.springrest.controller;
+
+import org.springframework.web.bind.annotation.RequestParam;
+
+public class EmployeeController {
+
+	public void getEmployee(@RequestParam("id")int id) {
+		
+	}
+}

@@ -1,0 +1,15 @@
+
+Tsquid:S1481"'Remove this unused "ts" local variable.(€½¸©H™RMINORZ
+CODE_SMELL
+jsquid:S18544"6Remove this useless assignment to local variable "ts".(€½¸©8óÊÊô×-H¡RMAJORZ
+CODE_SMELL
+ˆsquid:S1192"LDefine a constant instead of duplicating this literal "Persistence" 3 times.(·ê—–ùÿÿÿÿ8óÊÊô×-HŸRCRITICALZ
+CODE_SMELL
+Xsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH–RMINORZVULNERABILITY
+[squid:S14814"'Remove this unused "ts" local variable.(€½¸©8óÊÊô×-H¢RMINORZ
+CODE_SMELL
+_squid:S1148="#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8óÊÊô×-H RMINORZVULNERABILITY
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH•RMINORZVULNERABILITY
+csquid:S1854"6Remove this useless assignment to local variable "ts".(€½¸©H—RMAJORZ
+CODE_SMELL
+ˆsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Æ‡œ„H˜RBLOCKERZVULNERABILITY

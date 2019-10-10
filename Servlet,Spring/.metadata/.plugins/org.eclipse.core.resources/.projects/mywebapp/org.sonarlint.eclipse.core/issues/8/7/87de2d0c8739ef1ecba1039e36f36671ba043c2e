@@ -1,0 +1,15 @@
+
+\squid:S1989"'Add a "try/catch" block for "parseInt".(ÙÇüáûÿÿÿÿH›RMINORZVULNERABILITY
+jsquid:S1854"8Remove this useless assignment to local variable "bean".(ÕÓ°ÍúÿÿÿÿHœRMAJORZ
+CODE_SMELL
+_squid:S1989"*Add a "try/catch" block for "parseDouble".(•óîÿÿÿÿÿHRMINORZVULNERABILITY
+[squid:S19894"+Add a "try/catch" block for "sendRedirect".(—´‹ïHRMINORZVULNERABILITY
+Zsquid:S1125."(Remove the literal "true" boolean value.(¾¤ô„şÿÿÿÿHŸRMINORZ
+CODE_SMELL
+Xsquid:S1989+"(Add a "try/catch" block for "getWriter".(¾šçŞH RMINORZVULNERABILITY
+Wsquid:S1989"'Add a "try/catch" block for "parseInt".(õşÚ˜H¡RMINORZVULNERABILITY
+[squid:S1481")Remove this unused "bean" local variable.(ÕÓ°ÍúÿÿÿÿH¢RMINORZ
+CODE_SMELL
+ƒsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ø˜¦˜ûÿÿÿÿH£RMAJORZBUG
+}squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ñ­íüüÿÿÿÿH¤RMAJORZ
+CODE_SMELL

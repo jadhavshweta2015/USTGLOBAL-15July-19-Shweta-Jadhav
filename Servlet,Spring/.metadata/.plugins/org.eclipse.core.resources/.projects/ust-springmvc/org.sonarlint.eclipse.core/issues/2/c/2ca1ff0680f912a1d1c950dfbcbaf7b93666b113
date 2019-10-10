@@ -1,0 +1,37 @@
+
+|squid:S4488R"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹Â¼Ù8«¦¿ÙØ-HäRMINORZ
+CODE_SMELL
+|squid:S4488s"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ıÃïß8«¦¿ÙØ-HåRMINORZ
+CODE_SMELL
+squid:S44880"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ªŠø›úÿÿÿÿ8«¦¿ÙØ-HæRMINORZ
+CODE_SMELL
+|squid:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¬¾ª—8«¦¿ÙØ-HçRMINORZ
+CODE_SMELL
+~squid:S44885"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(èÂ›Ë8«¦¿ÙØ-HèRMINORZ
+CODE_SMELL
+squid:S46846"@Replace this persistent entity with a simple POJO or DTO object.(ç·ıØÿÿÿÿÿ8«¦¿ÙØ-HéRCRITICALZVULNERABILITY
+squid:S4488x"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(©ÌÇ†ÿÿÿÿÿ8«¦¿ÙØ-HêRMINORZ
+CODE_SMELL
+q
+squid:S106m"9Replace this use of System.out or System.err by a logger.(Š‘ÕÑúÿÿÿÿ8«¦¿ÙØ-HëRMAJORZ
+CODE_SMELL
+|squid:S4488?"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ø±°³8«¦¿ÙØ-HìRMINORZ
+CODE_SMELL
+|squid:S4488Y"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÌØØó8«¦¿ÙØ-HíRMINORZ
+CODE_SMELL
+‚squid:S1192&"FDefine a constant instead of duplicating this literal "index" 3 times.(¦œû×ÿÿÿÿÿ8«¦¿ÙØ-HîRCRITICALZ
+CODE_SMELL
+|squid:S4488G"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ëö­8«¦¿ÙØ-HïRMINORZ
+CODE_SMELL
+squid:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³¦šÃùÿÿÿÿ8«¦¿ÙØ-HğRMINORZ
+CODE_SMELL
+psquid:S2441a">Make "Employee" serializable or don't store it in the session.(æÒÿÔÿÿÿÿÿ8«¦¿ÙØ-HñRMAJORZBUG
+squid:S4488f"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‰ÛÛùÿÿÿÿ8«¦¿ÙØ-HòRMINORZ
+CODE_SMELL
+|squid:UselessImportCheck	"6Remove this unused import 'javax.xml.ws.Service.Mode'.(Ìé¬Øşÿÿÿÿ8«¦¿ÙØ-HóRMINORZ
+CODE_SMELL
+l
+squid:S106l"9Replace this use of System.out or System.err by a logger.(èšı8«¦¿ÙØ-HôRMAJORZ
+CODE_SMELL
+squid:S4684g"@Replace this persistent entity with a simple POJO or DTO object.(‹ĞŞÒúÿÿÿÿ8«¦¿ÙØ-HõRCRITICALZVULNERABILITY
+^squid:S3330A"$Add the "HttpOnly" cookie attribute.(•ŒóÇ8«¦¿ÙØ-HöRCRITICALZVULNERABILITY

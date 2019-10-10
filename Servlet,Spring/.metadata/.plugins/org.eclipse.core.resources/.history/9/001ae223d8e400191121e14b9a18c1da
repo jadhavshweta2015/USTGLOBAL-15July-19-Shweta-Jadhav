@@ -1,0 +1,8 @@
+package com.ustglobal.ustspringmvc.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ORMConfig {
+
+}

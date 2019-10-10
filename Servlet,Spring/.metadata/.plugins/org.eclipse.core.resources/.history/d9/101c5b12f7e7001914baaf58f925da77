@@ -1,0 +1,41 @@
+package com.ustglobal.ustspringboot.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.ustglobal.ustspringboot.dto.Employee;
+@Service("jpa")
+public class EmployeeServiceJpaImpl implements EmployeeService {
+
+	@Override
+	public boolean addEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean removeEmployee(int id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean modifyEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Employee getEmployee(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Employee> getAllEmployee() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

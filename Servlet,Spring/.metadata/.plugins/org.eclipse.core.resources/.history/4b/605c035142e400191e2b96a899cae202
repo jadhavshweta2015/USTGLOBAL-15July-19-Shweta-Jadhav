@@ -1,0 +1,8 @@
+package com.ustglobal.ustspringmvc.dao;
+
+import com.ustglobal.ustspringmvc.dto.Employee;
+
+public interface EmployeeDao {
+
+	public Employee auth(String email,String password);
+}

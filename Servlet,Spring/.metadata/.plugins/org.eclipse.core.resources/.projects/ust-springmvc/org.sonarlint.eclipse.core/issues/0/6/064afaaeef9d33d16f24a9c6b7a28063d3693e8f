@@ -1,0 +1,10 @@
+
+zsquid:S4684]"@Replace this persistent entity with a simple POJO or DTO object.(¢ãú8ƒ²¨ÛØ-HËRCRITICALZVULNERABILITY
+zsquid:S4684C"@Replace this persistent entity with a simple POJO or DTO object.(—†¤ù8í¦¥ÚØ-HÌRCRITICALZVULNERABILITY
+zsquid:S4684]"@Replace this persistent entity with a simple POJO or DTO object.(¢ãú8ƒ²¨ÛØ-HÍRCRITICALZVULNERABILITY
+ˆsquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å·Ÿ«ıÿÿÿÿ8°ÎÈÙØ-HÎRMINORZ
+CODE_SMELL
+psquid:S2441>">Make "Employee" serializable or don't store it in the session.(ÍŸù÷ûÿÿÿÿ8›©åÚØ-HÏRMAJORZBUG
+}squid:S1192-"FDefine a constant instead of duplicating this literal "login" 7 times.(Íı‡Ç8‡ˆÚØ-HĞRCRITICALZ
+CODE_SMELL
+ksquid:S2441a">Make "Employee" serializable or don't store it in the session.(¿š8äë×âØ-HÑRMAJORZBUG

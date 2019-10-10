@@ -1,0 +1,7 @@
+
+~squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(נÞ÷ׂHƒRMAJORZBUG
+Vsquid:S1989*"&Add a "try/catch" block for "forward".(ער½HRMINORZVULNERABILITY
+Vsquid:S1989*"&Add a "try/catch" block for "forward".(ער½H‚RMINORZVULNERABILITY
+gsquid:S2441#"AMake "ContactList" serializable or don't store it in the session.(¬ת£–H€RMAJORZBUG
+Vsquid:S1989"&Add a "try/catch" block for "forward".(ער½H‏RMINORZVULNERABILITY
+Vsquid:S1989"&Add a "try/catch" block for "forward".(ער½HÿRMINORZVULNERABILITY

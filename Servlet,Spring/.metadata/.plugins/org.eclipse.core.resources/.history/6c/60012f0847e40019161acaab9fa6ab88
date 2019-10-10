@@ -1,0 +1,46 @@
+package com.ustglobal.ustspringmvc.dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Query;
+
+import com.ustglobal.ustspringmvc.dto.Employee;
+
+public class EmployeeDaoImpl implements EmployeeDao {
+
+	EntityManagerFactory emf;
+	
+	@Override
+	public Employee auth(String email, String password) {
+		String jpql="from Employee where email=:email and password=:password";
+		EntityManager em=emf.createEntityManager();
+		Query query=em.createQuery(jpql);
+		query.setParameter("email", email);
+		query.setParameter("password", password);
+		Employee emp=(Employee) query.getSingleResult();
+		return emp;
+	}
+
+	@Override
+	public boolean register(Employee employee) {
+		return false;
+	}
+
+	@Override
+	public boolean deleteEmployee(int id) {
+		return false;
+	}
+
+	@Override
+	public boolean update(Employee employee) {
+		return false;
+	}
+
+	@Override
+	public List<Employee> getAllEmployee() {
+		return null;
+	}
+
+}

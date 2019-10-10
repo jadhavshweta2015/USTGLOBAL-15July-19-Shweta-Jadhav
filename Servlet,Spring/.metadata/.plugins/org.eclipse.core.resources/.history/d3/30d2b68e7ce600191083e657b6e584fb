@@ -1,0 +1,39 @@
+package com.dev.springrest.dao;
+
+import java.util.List;
+
+import com.dev.springrest.dto.Employee;
+
+public class EmployeeDaoImpl implements EmployeeDao {
+
+	@Override
+	public boolean addEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean removeEmployee(int id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean modifyEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public EmployeeDao getEmployee(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Employee> getAllEmployee() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

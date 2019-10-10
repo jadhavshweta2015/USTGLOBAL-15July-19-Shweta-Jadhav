@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+G:\ServletWorkbench\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529537237.index
+\mywebapp\src\main\java
+G:\ServletWorkbench\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3651012758.index
+\contactlist\src\main\java
+G:\ServletWorkbench\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1067261181.index
+\ust-springmvc\src\main\java
+G:\ServletWorkbench\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1835881162.index
+\springrest\src\main\java

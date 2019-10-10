@@ -1,0 +1,5 @@
+package com.ustglobal.ustspringmvc.dto;
+
+public class Employee {
+
+}

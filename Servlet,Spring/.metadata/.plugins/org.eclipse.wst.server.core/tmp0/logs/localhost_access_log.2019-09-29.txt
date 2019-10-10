@@ -1,0 +1,15 @@
+127.0.0.1 - - [29/Sep/2019:23:45:42 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:45:59 +0530] "GET /mywebapp/login1.jsp HTTP/1.1" 404 1097
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:46:14 +0530] "GET /contactlist/login HTTP/1.1" 200 713
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:46:15 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:46:19 +0530] "GET /contactlist/register HTTP/1.1" 200 687
+127.0.0.1 - - [29/Sep/2019:23:47:53 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:48:11 +0530] "GET /contactlist/login HTTP/1.1" 200 713
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:48:16 +0530] "GET /contactlist/register HTTP/1.1" 200 820
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:48:37 +0530] "GET /contactlist/register?name=shweta&number=1234567890&group=airtel&password=s HTTP/1.1" 200 820
+127.0.0.1 - - [29/Sep/2019:23:51:22 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:51:32 +0530] "GET /contactlist/login HTTP/1.1" 200 713
+127.0.0.1 - - [29/Sep/2019:23:55:50 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:55:50 +0530] "GET /contactlist/login HTTP/1.1" 200 713
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:55:56 +0530] "GET /contactlist/register HTTP/1.1" 200 820
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:56:07 +0530] "GET /contactlist/register?name=shweta&number=1234567890&group=airtel&password=s HTTP/1.1" 200 820

@@ -1,0 +1,44 @@
+package com.dev.springrest.dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.PersistenceUnit;
+
+import org.springframework.stereotype.Repository;
+
+import com.dev.springrest.dto.Employee;
+
+@Repository
+public class EmployeeDaoImpl implements EmployeeDao {
+
+	@PersistenceUnit
+	private EntityManagerFactory factory;
+	
+	@Override
+	public boolean addEmployee(Employee employee) {
+		
+		return false;
+	}
+
+	@Override
+	public boolean removeEmployee(int id) {
+		return false;
+	}
+
+	@Override
+	public boolean modifyEmployee(Employee employee) {
+		return false;
+	}
+
+	@Override
+	public EmployeeDao getEmployee(int id) {
+		return null;
+	}
+
+	@Override
+	public List<Employee> getAllEmployee() {
+		return null;
+	}
+
+}

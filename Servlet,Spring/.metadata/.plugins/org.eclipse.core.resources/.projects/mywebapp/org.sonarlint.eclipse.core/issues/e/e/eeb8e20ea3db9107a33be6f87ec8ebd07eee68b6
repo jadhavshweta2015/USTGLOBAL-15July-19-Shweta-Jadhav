@@ -1,0 +1,23 @@
+
+„squid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ò™Øþÿÿÿÿÿ8­Õõ×-HˆRMAJORZ
+CODE_SMELL
+qsquid:S1854"?Remove this useless assignment to local variable "transaction".( ìµäøÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+bsquid:S1481"0Remove this unused "transaction" local variable.( ìµäøÿÿÿÿHŠRMINORZ
+CODE_SMELL
+isquid:S1481#"0Remove this unused "empInfoBean" local variable.(Ç¼¹ìÿÿÿÿÿ8­Õõ×-H‹RMINORZ
+CODE_SMELL
+isquid:S1481K"0Remove this unused "transaction" local variable.( ìµäøÿÿÿÿ8­Õõ×-HŒRMINORZ
+CODE_SMELL
+ksquid:S2589h"7Remove this expression which always evaluates to "true"(ê¯®š8­Õõ×-HRMAJORZ
+CODE_SMELL
+”squid:S2068M"V'password' detected in this expression, review this potentially hard-coded credential.(¤Íýšýÿÿÿÿ8­Õõ×-HŽRBLOCKERZVULNERABILITY
+Zsquid:S1148/"#Use a logger to log this exception.(Ü˜­8è¿Ý¢Ö-HRMINORZVULNERABILITY
+_squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8­Õõ×-HRMINORZVULNERABILITY
+xsquid:S1854K"?Remove this useless assignment to local variable "transaction".( ìµäøÿÿÿÿ8­Õõ×-H‘RMAJORZ
+CODE_SMELL
+ƒsquid:S1192"LDefine a constant instead of duplicating this literal "Persistence" 5 times.(çëˆš8­Õõ×-H’RCRITICALZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8•­ñ™Ö-H“RMINORZVULNERABILITY
+_squid:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8­Õõ×-H”RMINORZVULNERABILITY
+Zsquid:S1148p"#Use a logger to log this exception.(Ü˜­8­Õõ×-H•RMINORZVULNERABILITY

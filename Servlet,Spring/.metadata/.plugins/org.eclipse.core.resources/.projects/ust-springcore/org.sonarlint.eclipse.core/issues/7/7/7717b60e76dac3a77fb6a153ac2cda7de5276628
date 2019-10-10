@@ -1,0 +1,14 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ÚÄŒıÿÿÿÿ8­×…Ø-HßRMAJORZ
+CODE_SMELL
+Á%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ˆ’€·8­×…Ø-HàRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø¤Ãçşÿÿÿÿ8­×…Ø-HáRMAJORZ
+CODE_SMELL
+Á%squid:RedundantThrowsDeclarationCheck	"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¾ıˆ„8­×…Ø-HâRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(åË…õ8­×…Ø-HãRMAJORZ
+CODE_SMELL
