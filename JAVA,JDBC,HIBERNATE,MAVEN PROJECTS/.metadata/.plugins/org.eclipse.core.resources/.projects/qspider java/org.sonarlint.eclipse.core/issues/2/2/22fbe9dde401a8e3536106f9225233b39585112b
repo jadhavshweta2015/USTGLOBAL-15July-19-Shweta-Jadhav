@@ -1,0 +1,14 @@
+
+squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "res".(¼¼ÏíüÿÿÿÿHÚYRMINORZ
+CODE_SMELL
+Ssquid:S1148"#Use a logger to log this exception.(ÄĞ™‘HÛYRMINORZVULNERABILITY
+psquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(‹Œ¹“HÜYRMAJORZ
+CODE_SMELL
+‘squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÕúÿÿÿÿHİYRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŞYRINFOZ
+CODE_SMELL
+hsquid:S1854"6Remove this useless assignment to local variable "sb".(µÌÕúÿÿÿÿHßYRMAJORZ
+CODE_SMELL
+Ysquid:S1481"'Remove this unused "sb" local variable.(µÌÕúÿÿÿÿHàYRMINORZ
+CODE_SMELL

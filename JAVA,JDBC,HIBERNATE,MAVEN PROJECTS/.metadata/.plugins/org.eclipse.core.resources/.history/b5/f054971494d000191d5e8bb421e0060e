@@ -1,0 +1,43 @@
+package com.dev.practise;
+
+import java.util.HashMap;
+
+public class EmployeeData implements EmployeeInterface {
+
+	HashMap<String, Employee> hm=new HashMap<String, Employee>();
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		EmployeeData ed=new EmployeeData();
+		Employee e1=new Employee();
+		e1.setName("shweta");
+		e1.setId(1);
+		e1.setEmail("s@gmail.com");
+		e1.setPassword(1234);
+	}
+	@Override
+	public void add() {
+		// TODO Auto-generated method stub
+		hm.put(1, e1)
+	}
+	@Override
+	public void remove() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void retrive() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void contains() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

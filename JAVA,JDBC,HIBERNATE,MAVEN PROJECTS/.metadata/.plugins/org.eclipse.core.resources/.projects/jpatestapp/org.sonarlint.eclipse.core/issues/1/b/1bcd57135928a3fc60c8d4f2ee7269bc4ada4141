@@ -1,0 +1,9 @@
+
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(£—î£üÿÿÿÿ8ÔÛÈÔ-H¬XRMAJORZ
+CODE_SMELL
+squid:UselessImportCheck
+"HRemove this unused import 'com.ustglobal.jpatestapp.onttoont.VoterCard'.(ãâï‰ûÿÿÿÿ8¸çíÈÔ-H­XRMINORZ
+CODE_SMELL
+_squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÃšÌÈÔ-H®XRMINORZVULNERABILITY
+}squid:S2259-"KA "NullPointerException" could be thrown; "entityManager" is nullable here.(¼šÅµşÿÿÿÿ8ÃšÌÈÔ-H¯XRMAJORZBUG

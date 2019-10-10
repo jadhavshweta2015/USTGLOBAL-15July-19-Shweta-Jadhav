@@ -1,0 +1,49 @@
+
+csquid:S1135<"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHôQRINFOZ
+CODE_SMELL
+usquid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿHõQRBLOCKERZBUG
+osquid:S2095,"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÁıÔ¹HöQRBLOCKERZBUG
+Xsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH÷QRMINORZVULNERABILITY
+Xsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHøQRMINORZVULNERABILITY
+e
+squid:S1065"9Replace this use of System.out or System.err by a logger.(±óÚßHùQRMAJORZ
+CODE_SMELL
+e
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ìö€ŠHúQRMAJORZ
+CODE_SMELL
+_squid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHûQRCRITICALZ
+CODE_SMELL
+e
+squid:S1063"9Replace this use of System.out or System.err by a logger.(˜Í ¥HüQRMAJORZ
+CODE_SMELL
+j
+squid:S1067"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHıQRMAJORZ
+CODE_SMELL
+csquid:S1135L"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHşQRINFOZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôÚÓ¹HÿQRMAJORZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ó©„™H€RRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤°ãÛøÿÿÿÿHRRMAJORZ
+CODE_SMELL
+nsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢H‚RRMINORZ
+CODE_SMELL
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿHƒRRMAJORZ
+CODE_SMELL
+j
+squid:S106)"9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿH„RRMAJORZ
+CODE_SMELL
+Xsquid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH…RRMINORZVULNERABILITY
+ysquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿH†RRMINORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(íÛÎúÿÿÿÿH‡RRMAJORZ
+CODE_SMELL
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHˆRRMAJORZ
+CODE_SMELL
+csquid:S1135D"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH‰RRINFOZ
+CODE_SMELL

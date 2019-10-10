@@ -1,0 +1,30 @@
+package com.dev.superKey;
+
+public class Area {
+
+	
+	
+	int side=2;
+	int radius=2;
+	int length=2;
+	int width=2;
+	
+	public void squareArea() {
+		
+		System.out.println("Square area"+side*side);
+	}
+	public void circleArea() {
+		
+		System.out.println("cicle area"+3.14*radius);
+	}
+public void recArea() {
+		
+		System.out.println("cicle area"+length*width);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Area a=new Area();
+		a.squareArea();
+	}
+}

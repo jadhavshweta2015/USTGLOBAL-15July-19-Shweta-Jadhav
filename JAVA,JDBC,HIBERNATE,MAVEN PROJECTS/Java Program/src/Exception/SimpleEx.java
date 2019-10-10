@@ -1,0 +1,23 @@
+
+package Exception;
+
+public class SimpleEx {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num[]=new int[4];
+		try{
+			System.out.println("simple exmaple ");
+			num[7]=3;
+			System.out.print("this sentence will not display ");
+		}
+		catch(ArrayIndexOutOfBoundsException e){
+			System.out.println(" ArrayIndexOutOfBoundsException");
+		}
+		System.out.println("After catch sentence");
+	}
+
+}

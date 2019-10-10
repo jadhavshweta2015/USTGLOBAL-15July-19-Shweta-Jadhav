@@ -1,0 +1,20 @@
+
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÌYRMINORZVULNERABILITY
+‘squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µÌÕúÿÿÿÿHÍYRMAJORZ
+CODE_SMELL
+hsquid:S1854"6Remove this useless assignment to local variable "sb".(µÌÕúÿÿÿÿHÎYRMAJORZ
+CODE_SMELL
+csquid:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÏYRINFOZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(åë¹‚şÿÿÿÿHĞYRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ë¿÷ùÿÿÿÿHÑYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìø¢¦HÒYRMAJORZ
+CODE_SMELL
+Ysquid:S1481"'Remove this unused "sb" local variable.(µÌÕúÿÿÿÿHÓYRMINORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+package Abstraction;
+
+import java.util.Scanner;
+
+public class Add extends Person{
+
+	/**
+	 * @param args
+	 */
+	public void addPerson(){
+		Scanner s=new Scanner(System.in);
+		int pNo=s.nextInt();
+		
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Person Add=new Add();
+		Add a=new Add();
+		a.addPerson();
+		
+	}
+
+}

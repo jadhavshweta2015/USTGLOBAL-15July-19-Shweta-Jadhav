@@ -1,0 +1,28 @@
+
+hsquid:S1854"6Remove this useless assignment to local variable "s2".(œØĞøüÿÿÿÿHÛXRMAJORZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "s" local variable.(°˜§HßXRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëíâ³ÿÿÿÿÿHÚXRMAJORZ
+CODE_SMELL
+Ysquid:S1481"'Remove this unused "s2" local variable.(œØĞøüÿÿÿÿHáXRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(­“ˆ™ûÿÿÿÿHØXRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìîı¹HâXRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ÕÏÓüÿÿÿÿH×XRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(İŞ±“HÙXRMAJORZ
+CODE_SMELL
+bsquid:S1854"5Remove this useless assignment to local variable "s".(°˜§HİXRMAJORZ
+CODE_SMELL
+Ysquid:S1481"'Remove this unused "s1" local variable.(ÇõÍ³şÿÿÿÿHàXRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŞXRINFOZ
+CODE_SMELL
+hsquid:S1854"6Remove this useless assignment to local variable "s1".(ÇõÍ³şÿÿÿÿHÜXRMAJORZ
+CODE_SMELL

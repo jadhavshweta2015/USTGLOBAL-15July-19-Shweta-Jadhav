@@ -1,0 +1,27 @@
+
+csquid:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHµFRINFOZ
+CODE_SMELL
+‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öƒ°îúÿÿÿÿH¶FRMINORZ
+CODE_SMELL
+j
+squid:S106""9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿH·FRMAJORZ
+CODE_SMELL
+e
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¢Î€’H¸FRMAJORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿH¹FRMAJORZ
+CODE_SMELL
+e
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¢Î€’HºFRMAJORZ
+CODE_SMELL
+e
+squid:S106/"9Replace this use of System.out or System.err by a logger.(åš½¤H»FRMAJORZ
+CODE_SMELL
+e
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ÿ‚‘àH¼FRMAJORZ
+CODE_SMELL
+e
+squid:S1062"9Replace this use of System.out or System.err by a logger.(’Í‰ÄH½FRMAJORZ
+CODE_SMELL

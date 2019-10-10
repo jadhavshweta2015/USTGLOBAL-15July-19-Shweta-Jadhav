@@ -1,0 +1,74 @@
+
+isquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔøHãKRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ²é’HäKRMAJORZ
+CODE_SMELL
+e
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ôÀÊHåKRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÄê¤HæKRMAJORZ
+CODE_SMELL
+msquid:UselessImportCheck"3Remove this unused import 'java.sql.DriverManager'.(“£°HçKRMINORZ
+CODE_SMELL
+hsquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚwHèKRMINORZ
+CODE_SMELL
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(»¯ÜéüÿÿÿÿHéKRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉíºûıÿÿÿÿHêKRMAJORZ
+CODE_SMELL
+nsquid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿHëKRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â®¸ŸıÿÿÿÿHìKRMAJORZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(êŠñ‡øÿÿÿÿHíKRMAJORZ
+CODE_SMELL
+e
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ší‹±HîKRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(»¯ÜéüÿÿÿÿHïKRMAJORZ
+CODE_SMELL
+‚squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘HğKRCRITICALZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHñKRINFOZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ï›šùÿÿÿÿHòKRMAJORZ
+CODE_SMELL
+j
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Â–†øÿÿÿÿHóKRMAJORZ
+CODE_SMELL
+Osquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿHôKRBLOCKERZBUG
+j
+squid:S106K"9Replace this use of System.out or System.err by a logger.(»¯ÜéüÿÿÿÿHõKRMAJORZ
+CODE_SMELL
+†squid:S1192"QDefine a constant instead of duplicating this literal "Enter ur choice:" 3 times.(»¯ÜéüÿÿÿÿHöKRCRITICALZ
+CODE_SMELL
+j
+squid:S106["9Replace this use of System.out or System.err by a logger.(ìù”½üÿÿÿÿH÷KRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ší‹±HøKRMAJORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖHùKRMINORZ
+CODE_SMELL
+j
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ìù”½üÿÿÿÿHúKRMAJORZ
+CODE_SMELL
+j
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ïÑÅıÿÿÿÿHûKRMAJORZ
+CODE_SMELL
+ksquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²HüKRMINORZ
+CODE_SMELL
+e
+squid:S106G"9Replace this use of System.out or System.err by a logger.(°ğ«ÛHıKRMAJORZ
+CODE_SMELL
+e
+squid:S106""9Replace this use of System.out or System.err by a logger.(ƒäÏHşKRMAJORZ
+CODE_SMELL

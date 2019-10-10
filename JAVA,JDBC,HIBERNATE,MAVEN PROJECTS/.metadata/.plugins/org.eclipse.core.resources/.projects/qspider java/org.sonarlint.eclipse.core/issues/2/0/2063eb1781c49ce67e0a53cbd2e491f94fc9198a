@@ -1,0 +1,37 @@
+
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH‹YRINFOZ
+CODE_SMELL
+j
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Å­ËİúÿÿÿÿHŒYRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï×ŞøÿÿÿÿHYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡ÜHYRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿHYRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(£º¾¬øÿÿÿÿHYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÇğ‡H‘YRMAJORZ
+CODE_SMELL
+ssquid:S3027"FPut single-quotes around 's' to use the faster "indexOf(char)" method.(ÚÍß’H’YRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºŸÈÑûÿÿÿÿH“YRMAJORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(’ ùÿÿÿÿH”YRMAJORZ
+CODE_SMELL
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(÷´÷‚úÿÿÿÿH•YRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â¬üÄH–YRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(›Õ‘«H—YRMAJORZ
+CODE_SMELL

@@ -1,0 +1,395 @@
+
+osquid:S1075Å"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢H÷ORMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(öºÞòþÿÿÿÿHøORMAJORZ
+CODE_SMELL
+e
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ø¢ì+HùORMAJORZ
+CODE_SMELL
+e
+squid:S106F"9Replace this use of System.out or System.err by a logger.(øÃ¸HúORMAJORZ
+CODE_SMELL
+Usquid:S1068"(Remove this unused "prop" private field.(©Ë‡HûORMAJORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ì½¾‚ùÿÿÿÿHüORMAJORZ
+CODE_SMELL
+k
+squid:S106“"9Replace this use of System.out or System.err by a logger.(•Ð¤€üÿÿÿÿHýORMAJORZ
+CODE_SMELL
+f
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(•ÍìÉHþORMAJORZ
+CODE_SMELL
+œsquid:S1192#"lDefine a constant instead of duplicating this literal "C:\\Users\\SHweta\\Documents\\db.properties" 8 times.(ÚÑÕ¢HÿORCRITICALZ
+CODE_SMELL
+squid:S11924"LDefine a constant instead of duplicating this literal "Artist_Name" 4 times.(»Ç²ŸÿÿÿÿÿH€PRCRITICALZ
+CODE_SMELL
+wsquid:S11922"HDefine a constant instead of duplicating this literal "Song_Id" 4 times.(ÃÇŒuHPRCRITICALZ
+CODE_SMELL
+psquid:HiddenFieldCheck~"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH‚PRMAJORZ
+CODE_SMELL
+squid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÇŒuHƒPRMINORZ
+CODE_SMELL
+squid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ž™XH„PRMINORZ
+CODE_SMELL
+`squid:S4925Ê"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH…PRMAJORZ
+CODE_SMELL
+|squid:S1192="LDefine a constant instead of duplicating this literal "Album_Name:" 4 times.(â–·™H†PRCRITICALZ
+CODE_SMELL
+k
+squid:S106´"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿH‡PRMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheck¡"7Rename "url" which hides the field declared at line 13.(Õ£•àHˆPRMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheck&"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH‰PRMAJORZ
+CODE_SMELL
+nsquid:S1075U"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢HŠPRMINORZ
+CODE_SMELL
+{squid:S11927"LDefine a constant instead of duplicating this literal "Description" 4 times.(¡ž™XH‹PRCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(ßˆ¾ºúÿÿÿÿHŒPRMAJORZ
+CODE_SMELL
+Ysquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHPRMINORZVULNERABILITY
+€squid:S11925"KDefine a constant instead of duplicating this literal "Album_Name" 4 times.(×½ˆŠûÿÿÿÿHŽPRCRITICALZ
+CODE_SMELL
+nsquid:S1075#"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢HPRMINORZ
+CODE_SMELL
+Wsquid:S00108C")Either remove or fill this block of code.(‡è›ÓHPRMAJORZ
+CODE_SMELL
+k
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(ÅêµúÿÿÿÿH‘PRMAJORZ
+CODE_SMELL
+osquid:S1075£"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢H’PRMINORZ
+CODE_SMELL
+psquid:HiddenFieldCheckË"7Rename "url" which hides the field declared at line 13.(Õ£•àH“PRMAJORZ
+CODE_SMELL
+qsquid:HiddenFieldCheckÏ"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH”PRMAJORZ
+CODE_SMELL
+squid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ž™XH•PRMINORZ
+CODE_SMELL
+|squid:S1192<"MDefine a constant instead of duplicating this literal "Artist_Name:" 4 times.(¨Æé_H–PRCRITICALZ
+CODE_SMELL
+ksquid:S2696("6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿH—PRCRITICALZ
+CODE_SMELL
+…squid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ç²ŸÿÿÿÿÿH˜PRMINORZ
+CODE_SMELL
+squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üèëãüÿÿÿÿH™PRCRITICALZ
+CODE_SMELL
+„squid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ç²ŸÿÿÿÿÿHšPRMINORZ
+CODE_SMELL
+qsquid:HiddenFieldCheckú"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH›PRMAJORZ
+CODE_SMELL
+€squid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¡€žHœPRMINORZ
+CODE_SMELL
+vsquid:S2095£"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿHPRBLOCKERZBUG
+nsquid:S1075{"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢HžPRMINORZ
+CODE_SMELL
+k
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(ÅêµúÿÿÿÿHŸPRMAJORZ
+CODE_SMELL
+f
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(•ÍìÉH PRMAJORZ
+CODE_SMELL
+Ysquid:S1148º"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH¡PRMINORZVULNERABILITY
+…squid:S00117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½ˆŠûÿÿÿÿH¢PRMINORZ
+CODE_SMELL
+…squid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½ˆŠûÿÿÿÿH£PRMINORZ
+CODE_SMELL
+osquid:S1075Ì"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢H¤PRMINORZ
+CODE_SMELL
+e
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ŠÝ¦¡H¥PRMAJORZ
+CODE_SMELL
+…squid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ç²ŸÿÿÿÿÿH¦PRMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(½—ùÝH§PRMAJORZ
+CODE_SMELL
+vsquid:S2095Í"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿH¨PRBLOCKERZBUG
+€squid:S1192"JDefine a constant instead of duplicating this literal "Query ok," 3 times.(õã¯üùÿÿÿÿH©PRCRITICALZ
+CODE_SMELL
+gsquid:S2696€"6Make the enclosing method "static" or remove this set.(õÊ‰öHªPRCRITICALZ
+CODE_SMELL
+j
+squid:S106?"9Replace this use of System.out or System.err by a logger.(•Ð¤€üÿÿÿÿH«PRMAJORZ
+CODE_SMELL
+…squid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ç²ŸÿÿÿÿÿH¬PRMINORZ
+CODE_SMELL
+osquid:HiddenFieldCheckT"7Rename "url" which hides the field declared at line 13.(Õ£•àH­PRMAJORZ
+CODE_SMELL
+d
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¨Æé_H®PRMAJORZ
+CODE_SMELL
+ƒsquid:S1192"MDefine a constant instead of duplicating this literal "row affected" 3 times.(õã¯üùÿÿÿÿH¯PRCRITICALZ
+CODE_SMELL
+k
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿH°PRMAJORZ
+CODE_SMELL
+e
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(¨Æé_H±PRMAJORZ
+CODE_SMELL
+qsquid:HiddenFieldCheck¦"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH²PRMAJORZ
+CODE_SMELL
+usquid:S2095|"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿH³PRBLOCKERZBUG
+~squid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÇŒuH´PRMINORZ
+CODE_SMELL
+k
+squid:S106å"9Replace this use of System.out or System.err by a logger.(©íêÙùÿÿÿÿHµPRMAJORZ
+CODE_SMELL
+k
+squid:S106†"9Replace this use of System.out or System.err by a logger.(‰×òÄøÿÿÿÿH¶PRMAJORZ
+CODE_SMELL
+Ysquid:S1068"'Remove this unused "url" private field.(üèëãüÿÿÿÿH·PRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÍìÉH¸PRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(Ž›ñ5H¹PRMAJORZ
+CODE_SMELL
+ksquid:S2696Z"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿHºPRCRITICALZ
+CODE_SMELL
+j
+squid:S106>"9Replace this use of System.out or System.err by a logger.(©íêÙùÿÿÿÿH»PRMAJORZ
+CODE_SMELL
+k
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ì½¾‚ùÿÿÿÿH¼PRMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheckÄ"7Rename "url" which hides the field declared at line 13.(Õ£•àH½PRMAJORZ
+CODE_SMELL
+€squid:S1192Ö"ODefine a constant instead of duplicating this literal "enter song id:" 4 times.(•ÍìÉH¾PRCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(ÈœÞÏH¿PRMAJORZ
+CODE_SMELL
+Ysquid:S1148ì"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÀPRMINORZVULNERABILITY
+fsquid:S2696+"6Make the enclosing method "static" or remove this set.(õÊ‰öHÁPRCRITICALZ
+CODE_SMELL
+e
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(¨Æé_HÂPRMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheck¢"7Rename "url" which hides the field declared at line 13.(Õ£•àHÃPRMAJORZ
+CODE_SMELL
+f
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(•ÍìÉHÄPRMAJORZ
+CODE_SMELL
+e
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ø¢ì+HÅPRMAJORZ
+CODE_SMELL
+gsquid:S2696Õ"6Make the enclosing method "static" or remove this set.(õÊ‰öHÆPRCRITICALZ
+CODE_SMELL
+e
+squid:S106="9Replace this use of System.out or System.err by a logger.(â–·™HÇPRMAJORZ
+CODE_SMELL
+…squid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”«ÔùÿÿÿÿHÈPRMINORZ
+CODE_SMELL
+k
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ÅêµúÿÿÿÿHÉPRMAJORZ
+CODE_SMELL
+f
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(â–·™HÊPRMAJORZ
+CODE_SMELL
+squid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¡€žHËPRMINORZ
+CODE_SMELL
+`squid:S4925¡"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÌPRMAJORZ
+CODE_SMELL
+k
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Ëæ¼‘þÿÿÿÿHÍPRMAJORZ
+CODE_SMELL
+k
+squid:S106­"9Replace this use of System.out or System.err by a logger.(Ù›ï˜ùÿÿÿÿHÎPRMAJORZ
+CODE_SMELL
+lsquid:S2696Ê"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿHÏPRCRITICALZ
+CODE_SMELL
+lsquid:S2696¨"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿHÐPRCRITICALZ
+CODE_SMELL
+squid:S1192n"ZDefine a constant instead of duplicating this literal "*************************" 4 times.(öó¾ïøÿÿÿÿHÑPRCRITICALZ
+CODE_SMELL
+vsquid:S2095ø"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿHÒPRBLOCKERZBUG
+`squid:S4925 "-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÓPRMAJORZ
+CODE_SMELL
+k
+squid:S106³"9Replace this use of System.out or System.err by a logger.(õã¯üùÿÿÿÿHÔPRMAJORZ
+CODE_SMELL
+€squid:S00117Þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¡€žHÕPRMINORZ
+CODE_SMELL
+…squid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”«ÔùÿÿÿÿHÖPRMINORZ
+CODE_SMELL
+„squid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½ˆŠûÿÿÿÿH×PRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHØPRINFOZ
+CODE_SMELL
+‹squid:S1192!"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 8 times.(¹µÖÁüÿÿÿÿHÙPRCRITICALZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ûê¬HÚPRMAJORZ
+CODE_SMELL
+k
+squid:S106»"9Replace this use of System.out or System.err by a logger.(•Ð¤€üÿÿÿÿHÛPRMAJORZ
+CODE_SMELL
+xsquid:S1192:"IDefine a constant instead of duplicating this literal "Song_Id:" 4 times.(ø¢ì+HÜPRCRITICALZ
+CODE_SMELL
+osquid:HiddenFieldCheckz"7Rename "url" which hides the field declared at line 13.(Õ£•àHÝPRMAJORZ
+CODE_SMELL
+f
+squid:S106â"9Replace this use of System.out or System.err by a logger.(ÒÀŒ¼HÞPRMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheckö"7Rename "url" which hides the field declared at line 13.(Õ£•àHßPRMAJORZ
+CODE_SMELL
+gsquid:S2696Î"6Make the enclosing method "static" or remove this set.(õÊ‰öHàPRCRITICALZ
+CODE_SMELL
+squid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ž™XHáPRMINORZ
+CODE_SMELL
+lsquid:S2696€"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿHâPRCRITICALZ
+CODE_SMELL
+k
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHãPRMAJORZ
+CODE_SMELL
+lsquid:S2696Ñ"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿHäPRCRITICALZ
+CODE_SMELL
+wsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(Ì’á2HåPRMAJORZ
+CODE_SMELL
+k
+squid:S106’"9Replace this use of System.out or System.err by a logger.(©íêÙùÿÿÿÿHæPRMAJORZ
+CODE_SMELL
+k
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿHçPRMAJORZ
+CODE_SMELL
+`squid:S4925õ"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHèPRMAJORZ
+CODE_SMELL
+squid:S11923"LDefine a constant instead of duplicating this literal "Songs_Title" 5 times.(Å”«ÔùÿÿÿÿHéPRCRITICALZ
+CODE_SMELL
+~squid:S11926"NDefine a constant instead of duplicating this literal "Song_Location" 4 times.(ç¡€žHêPRCRITICALZ
+CODE_SMELL
+}squid:S1192;"MDefine a constant instead of duplicating this literal "Songs_Title:" 5 times.(ÒÀŒ¼HëPRCRITICALZ
+CODE_SMELL
+k
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(õã¯üùÿÿÿÿHìPRMAJORZ
+CODE_SMELL
+`squid:S4925Ã"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHíPRMAJORZ
+CODE_SMELL
+vsquid:S2095Æ"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿHîPRBLOCKERZBUG
+f
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(‰†¿áHïPRMAJORZ
+CODE_SMELL
+j
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÅêµúÿÿÿÿHðPRMAJORZ
+CODE_SMELL
+e
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÒÀŒ¼HñPRMAJORZ
+CODE_SMELL
+Ysquid:S1148—"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHòPRMINORZVULNERABILITY
+_squid:S4925y"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHóPRMAJORZ
+CODE_SMELL
+e
+squid:S106Ž"9Replace this use of System.out or System.err by a logger.(ø¢ì+HôPRMAJORZ
+CODE_SMELL
+„squid:S1192>"ODefine a constant instead of duplicating this literal "Song_Location:" 4 times.(©íêÙùÿÿÿÿHõPRCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(†ÝÝÍHöPRMAJORZ
+CODE_SMELL
+Ysquid:S1148Ü"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH÷PRMINORZVULNERABILITY
+usquid:S2095$"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿHøPRBLOCKERZBUG
+osquid:S1075¢"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢HùPRMINORZ
+CODE_SMELL
+e
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ÒÀŒ¼HúPRMAJORZ
+CODE_SMELL
+gsquid:S2696«"6Make the enclosing method "static" or remove this set.(õÊ‰öHûPRCRITICALZ
+CODE_SMELL
+Xsquid:S1148r"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHüPRMINORZVULNERABILITY
+k
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(¾ðÄîýÿÿÿÿHýPRMAJORZ
+CODE_SMELL
+‚squid:S1192?"MDefine a constant instead of duplicating this literal "Description:" 4 times.(•Ð¤€üÿÿÿÿHþPRCRITICALZ
+CODE_SMELL
+j
+squid:S106n"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHÿPRMAJORZ
+CODE_SMELL
+f
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ÒÀŒ¼H€QRMAJORZ
+CODE_SMELL
+lsquid:S2696ü"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿHQRCRITICALZ
+CODE_SMELL
+squid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÇŒuH‚QRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Æé_HƒQRMAJORZ
+CODE_SMELL
+_squid:S4925S"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH„QRMAJORZ
+CODE_SMELL
+qsquid:HiddenFieldCheckÈ"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH…QRMAJORZ
+CODE_SMELL
+f
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(â–·™H†QRMAJORZ
+CODE_SMELL
+„squid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”«ÔùÿÿÿÿH‡QRMINORZ
+CODE_SMELL
+osquid:S1075÷"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢HˆQRMINORZ
+CODE_SMELL
+Xsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH‰QRMINORZVULNERABILITY
+…squid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½ˆŠûÿÿÿÿHŠQRMINORZ
+CODE_SMELL
+osquid:HiddenFieldCheck""7Rename "url" which hides the field declared at line 13.(Õ£•àH‹QRMAJORZ
+CODE_SMELL
+k
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿHŒQRMAJORZ
+CODE_SMELL
+k
+squid:S106º"9Replace this use of System.out or System.err by a logger.(©íêÙùÿÿÿÿHQRMAJORZ
+CODE_SMELL
+Œsquid:S1192“"VDefine a constant instead of duplicating this literal "something is wrong..." 3 times.(ÂôÔÁøÿÿÿÿHŽQRCRITICALZ
+CODE_SMELL
+squid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÇŒuHQRMINORZ
+CODE_SMELL
+Ysquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHQRMINORZVULNERABILITY
+d
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ø¢ì+H‘QRMAJORZ
+CODE_SMELL
+psquid:HiddenFieldCheckX"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH’QRMAJORZ
+CODE_SMELL
+„squid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”«ÔùÿÿÿÿH“QRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(õã¯üùÿÿÿÿH”QRMAJORZ
+CODE_SMELL
+Žsquid:S1192@"YDefine a constant instead of duplicating this literal "************************" 4 times.(ÅêµúÿÿÿÿH•QRCRITICALZ
+CODE_SMELL
+}squid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(öºÞòþÿÿÿÿH–QRMAJORZ
+CODE_SMELL
+_squid:S4925!"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH—QRMAJORZ
+CODE_SMELL
+k
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(•Ð¤€üÿÿÿÿH˜QRMAJORZ
+CODE_SMELL
+€squid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¡€žH™QRMINORZ
+CODE_SMELL
+k
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHšQRMAJORZ
+CODE_SMELL
+…squid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”«ÔùÿÿÿÿH›QRMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ù—÷ØHœQRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÀŒ¼HQRMAJORZ
+CODE_SMELL
+k
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ú‹þûÿÿÿÿHžQRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(ÌÊ¯÷HŸQRMAJORZ
+CODE_SMELL
+f
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(â–·™H QRMAJORZ
+CODE_SMELL
+usquid:S2095V"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿH¡QRBLOCKERZBUG
+lsquid:S2696§"6Make the enclosing method "static" or remove this set.(ú§Ð¨ûÿÿÿÿH¢QRCRITICALZ
+CODE_SMELL
+˜squid:S1192""hDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/MusicPlayer" 8 times.(Õ£•àH£QRCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ÀýÿÕH¤QRMAJORZ
+CODE_SMELL
+~squid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ž™XH¥QRMINORZ
+CODE_SMELL
+qsquid:HiddenFieldCheck¥"8Rename "prop" which hides the field declared at line 14.(Î×”ÇH¦QRMAJORZ
+CODE_SMELL
+vsquid:S2095¤"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿH§QRBLOCKERZBUG
+xsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(â†åœH¨QRMAJORZ
+CODE_SMELL

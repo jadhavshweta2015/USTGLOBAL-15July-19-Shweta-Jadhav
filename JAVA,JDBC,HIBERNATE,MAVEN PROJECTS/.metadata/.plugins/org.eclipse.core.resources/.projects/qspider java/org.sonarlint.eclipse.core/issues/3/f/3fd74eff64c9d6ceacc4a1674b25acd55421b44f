@@ -1,0 +1,43 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ÕÏÓüÿÿÿÿHãXRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÂôÆşÿÿÿÿHäXRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHåXRINFOZ
+CODE_SMELL
+Zsquid:S1172	"(Remove this unused method parameter "i".(òñÒöøÿÿÿÿHæXRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ½üÂHçXRMAJORZ
+CODE_SMELL
+csquid:S1135
+"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHèXRINFOZ
+CODE_SMELL
+Ssquid:S1172"&Remove these unused method parameters.(„‚òHéXRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÎÓ™øÿÿÿÿHêXRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHëXRINFOZ
+CODE_SMELL
+Ssquid:S1172"&Remove these unused method parameters.(©éùHìXRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞøíúÿÿÿÿHíXRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHîXRINFOZ
+CODE_SMELL
+Usquid:S1172"(Remove this unused method parameter "s".( äŸèHïXRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(â¯éüÿÿÿÿHğXRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHñXRINFOZ
+CODE_SMELL
+csquid:S1854 "6Remove this useless assignment to local variable "s1".(ªø„¥HòXRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHóXRINFOZ
+CODE_SMELL
+Tsquid:S1481 "'Remove this unused "s1" local variable.(ªø„¥HôXRMINORZ
+CODE_SMELL

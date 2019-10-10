@@ -1,0 +1,7 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïþ¶òHùWRMAJORZ
+CODE_SMELL
+fsquid:S1854"9Remove this useless assignment to local variable "movie".(ÑŽß›HúWRMAJORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHûWRMINORZVULNERABILITY

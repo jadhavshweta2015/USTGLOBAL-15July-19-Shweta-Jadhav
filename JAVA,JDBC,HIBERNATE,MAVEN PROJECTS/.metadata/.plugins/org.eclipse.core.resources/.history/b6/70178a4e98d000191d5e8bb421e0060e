@@ -1,0 +1,9 @@
+package com.dev.practise;
+
+public interface EmployeeInterface {
+	public void add(Employee e);
+	public void remove();
+	public void retrive();
+	public void update();
+	public void contains();
+}

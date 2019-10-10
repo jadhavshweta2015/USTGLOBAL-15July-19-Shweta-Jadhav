@@ -1,0 +1,17 @@
+
+Gsquid:S1220""Move this file to a named package.H–WRMINORZ
+CODE_SMELL
+bsquid:S1854"5Remove this useless assignment to local variable "s".(ÇñÚïH—WRMAJORZ
+CODE_SMELL
+Usquid:S1659!"#Declare "count" on a separate line.(ä°è½ÿÿÿÿÿH˜WRMINORZ
+CODE_SMELL
+csquid:S1135
+"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH™WRINFOZ
+CODE_SMELL
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿHšWRMAJORZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "s" local variable.(ÇñÚïH›WRMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù®³šþÿÿÿÿHœWRMAJORZ
+CODE_SMELL

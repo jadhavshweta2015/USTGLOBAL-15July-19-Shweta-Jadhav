@@ -1,0 +1,32 @@
+
+squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "res".(¼¼ÏíüÿÿÿÿH¿YRMINORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÀYRMINORZVULNERABILITY
+Ssquid:S1148"#Use a logger to log this exception.(Ü˜­HÁYRMINORZVULNERABILITY
+Œsquid:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾ü’•HÂYRMAJORZ
+CODE_SMELL
+j
+squid:S106	"9Replace this use of System.out or System.err by a logger.(²Å²õúÿÿÿÿHÃYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(°€ÓóHÄYRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿHÅYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(«®¹”HÆYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÃíáHÇYRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ²ÉõHÈYRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥Ğ÷ÊÿÿÿÿÿHÉYRMAJORZ
+CODE_SMELL
+csquid:S1854 "6Remove this useless assignment to local variable "sb".(¾ü’•HÊYRMAJORZ
+CODE_SMELL
+Tsquid:S1481 "'Remove this unused "sb" local variable.(¾ü’•HËYRMINORZ
+CODE_SMELL

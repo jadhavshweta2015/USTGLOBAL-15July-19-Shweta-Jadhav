@@ -1,0 +1,18 @@
+
+Gsquid:S1220""Move this file to a named package.HÛVRMINORZ
+CODE_SMELL
+Ssquid:S1659
+"!Declare "len" on a separate line.(¨ˆâ‡úÿÿÿÿHÜVRMINORZ
+CODE_SMELL
+Nsquid:S1659"!Declare "rem" on a separate line.(‚Ê›“HÝVRMINORZ
+CODE_SMELL
+Nsquid:S1659"!Declare "sum" on a separate line.(‚Ê›“HÞVRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHßVRINFOZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ƒÕ»¿ùÿÿÿÿHàVRMAJORZ
+CODE_SMELL
+j
+squid:S106""9Replace this use of System.out or System.err by a logger.(õêî”úÿÿÿÿHáVRMAJORZ
+CODE_SMELL

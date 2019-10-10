@@ -1,0 +1,78 @@
+
+Xsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÔQRMINORZVULNERABILITY
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÕQRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(§â¹ÀüÿÿÿÿHÖQRMAJORZ
+CODE_SMELL
+j
+squid:S106>"9Replace this use of System.out or System.err by a logger.(›®áˆúÿÿÿÿH×QRMAJORZ
+CODE_SMELL
+e
+squid:S106N"9Replace this use of System.out or System.err by a logger.(Ó©„™HØQRMAJORZ
+CODE_SMELL
+e
+squid:S106)"9Replace this use of System.out or System.err by a logger.(±óÚßHÙQRMAJORZ
+CODE_SMELL
+e
+squid:S106O"9Replace this use of System.out or System.err by a logger.(±óÚßHÚQRMAJORZ
+CODE_SMELL
+e
+squid:S106'"9Replace this use of System.out or System.err by a logger.(˜Í ¥HÛQRMAJORZ
+CODE_SMELL
+csquid:S1135U"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÜQRINFOZ
+CODE_SMELL
+csquid:S1135]"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHİQRINFOZ
+CODE_SMELL
+j
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÿ¯¢®üÿÿÿÿHŞQRMAJORZ
+CODE_SMELL
+tsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡üøœşÿÿÿÿHßQRBLOCKERZBUG
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÛÎúÿÿÿÿHàQRMAJORZ
+CODE_SMELL
+e
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ç£Ã¥HáQRMAJORZ
+CODE_SMELL
+j
+squid:S106?"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHâQRMAJORZ
+CODE_SMELL
+e
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ìö€ŠHãQRMAJORZ
+CODE_SMELL
+Xsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHäQRMINORZVULNERABILITY
+j
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ù¹ıÜúÿÿÿÿHåQRMAJORZ
+CODE_SMELL
+tsquid:S2095E"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡üøœşÿÿÿÿHæQRBLOCKERZBUG
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤°ãÛøÿÿÿÿHçQRMAJORZ
+CODE_SMELL
+squid:S1192+"ZDefine a constant instead of duplicating this literal "*************************" 3 times.(öó¾ïøÿÿÿÿHèQRCRITICALZ
+CODE_SMELL
+csquid:S1135e"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHéQRINFOZ
+CODE_SMELL
+osquid:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.( ñö†HêQRBLOCKERZBUG
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ìö€ŠHëQRMAJORZ
+CODE_SMELL
+osquid:S2095F"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ï¨ğáHìQRBLOCKERZBUG
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿHíQRMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHîQRMAJORZ
+CODE_SMELL
+j
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿHïQRMAJORZ
+CODE_SMELL
+j
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHğQRMAJORZ
+CODE_SMELL
+Xsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHñQRMINORZVULNERABILITY
+e
+squid:S106M"9Replace this use of System.out or System.err by a logger.(˜Í ¥HòQRMAJORZ
+CODE_SMELL
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ó©„™HóQRMAJORZ
+CODE_SMELL

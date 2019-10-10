@@ -1,0 +1,20 @@
+package com.dev.superKey;
+
+public class RecArea {
+
+	
+	int side=2;
+	int radius=2;
+	int length=2;
+	int width=2;
+	
+	public void squareArea(int s) {
+		this.side=s;
+		System.out.println("Square area"+s*s);
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Area a=new Area();
+	}
+
+}

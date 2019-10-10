@@ -1,0 +1,24 @@
+
+Osquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿH÷URBLOCKERZBUG
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯êù”HøURMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHùURINFOZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¶şÿÿÿÿHúURMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉĞ´‡üÿÿÿÿHûURMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹ÎõHüURMAJORZ
+CODE_SMELL
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(æİÈùÿÿÿÿHıURMAJORZ
+CODE_SMELL
+e
+squid:S106&"9Replace this use of System.out or System.err by a logger.(«‹ÎõHşURMAJORZ
+CODE_SMELL
+j
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Á¸¿¹ûÿÿÿÿHÿURMAJORZ
+CODE_SMELL

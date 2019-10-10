@@ -1,0 +1,36 @@
+
+gsquid:S2184"ACast one of the operands of this division operation to a "float".(‚¼ãíH‘URMINORZBUG
+Gsquid:S1220""Move this file to a named package.H’URMINORZ
+CODE_SMELL
+Lsquid:S1659	"Declare "b" on a separate line.(œ‹¿ªH“URMINORZ
+CODE_SMELL
+Msquid:S1659	" Declare "c1" on a separate line.(œ‹¿ªH”URMINORZ
+CODE_SMELL
+Qsquid:S1659"Declare "f" on a separate line.(Á¥ã±ÿÿÿÿÿH•URMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH–URINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH—URINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH˜URINFOZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÒûªH™URMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(àª£¼HšURMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(½¬À®H›URMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏóóLHœURMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(²Ëš€HURMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(üêÊ¸ıÿÿÿÿHURMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞØˆçHŸURMAJORZ
+CODE_SMELL

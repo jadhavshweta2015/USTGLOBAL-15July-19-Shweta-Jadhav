@@ -1,0 +1,6 @@
+
+zsquid:UselessImportCheck	"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á8ÜËÒÊÔ-H±XRMINORZ
+CODE_SMELL
+~squid:UselessImportCheck
+"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ8ÜËÒÊÔ-H°XRMINORZ
+CODE_SMELL

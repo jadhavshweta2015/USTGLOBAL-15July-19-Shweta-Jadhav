@@ -1,0 +1,11 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ÕÏÓüÿÿÿÿHõXRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHöXRINFOZ
+CODE_SMELL
+bsquid:S1854"5Remove this useless assignment to local variable "t".(‚½¸ÚH÷XRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHøXRINFOZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "t" local variable.(‚½¸ÚHùXRMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+package com.dev.practise;
+
+public class Snippet {
+	public static void main(String[] args) {
+		e1.setName("shweta");
+				e1.setId(1);
+				e1.setEmail("s@gmail.com");
+				e1.setPassword(1234);
+	}
+}
+

@@ -1,0 +1,58 @@
+package com.dev.practise;
+
+import com.dev.collection.Employee;
+
+public class Employee implements EmployeeInterface {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee e=new Employee();
+		e.setName("shweta");
+		e.setId(1);
+		e.setEmail("s@gmail.com");
+		e.setPassword(1234);
+		
+		Employee e1=new Employee();
+		e1.setName("abs");
+		e1.setId(2);
+		e1.setEmail("abs@gmail.com");
+		e1.setPassword(1234);
+		
+		Employee e3=new Employee();
+		e3.setName("xyz");
+		e3.setId(3);
+		e3.setEmail("x@gmail.com");
+		e3.setPassword(1234);
+	}
+
+	@Override
+	public void add() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void remove() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void retrive() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void contains() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

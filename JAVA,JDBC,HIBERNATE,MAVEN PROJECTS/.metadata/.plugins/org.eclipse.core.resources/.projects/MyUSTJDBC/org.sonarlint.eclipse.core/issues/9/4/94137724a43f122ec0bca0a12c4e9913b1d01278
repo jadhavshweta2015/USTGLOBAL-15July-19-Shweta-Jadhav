@@ -1,0 +1,43 @@
+
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿHæWRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHçWRINFOZ
+CODE_SMELL
+ysquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿHèWRMINORZ
+CODE_SMELL
+nsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÚÑÕ¢HéWRMINORZ
+CODE_SMELL
+usquid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Šª€òúÿÿÿÿHêWRBLOCKERZBUG
+Xsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHëWRMINORZVULNERABILITY
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤°ãÛøÿÿÿÿHìWRMAJORZ
+CODE_SMELL
+e
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ç£Ã¥HíWRMAJORZ
+CODE_SMELL
+isquid:UselessImportCheck
+"/Remove this unused import 'java.sql.Statement'.(ÏÖÔøHîWRMINORZ
+CODE_SMELL
+csquid:S11356"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHïWRINFOZ
+CODE_SMELL
+j
+squid:S106("9Replace this use of System.out or System.err by a logger.(“ÜšÎúÿÿÿÿHğWRMAJORZ
+CODE_SMELL
+j
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÂôÔÁøÿÿÿÿHñWRMAJORZ
+CODE_SMELL
+osquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»ÚıÿÿÿÿHòWRMINORZ
+CODE_SMELL
+lsquid:UselessImportCheck	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸHóWRMINORZ
+CODE_SMELL
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHôWRMAJORZ
+CODE_SMELL
+wsquid:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(õÊ‰öHõWRBLOCKERZBUG
+j
+squid:S106""9Replace this use of System.out or System.err by a logger.(íÛÎúÿÿÿÿHöWRMAJORZ
+CODE_SMELL
+j
+squid:S1060"9Replace this use of System.out or System.err by a logger.(›®áˆúÿÿÿÿH÷WRMAJORZ
+CODE_SMELL
+usquid:S2095!"HUse try-with-resources or close this "Connection" in a "finally" clause.(ú§Ğ¨ûÿÿÿÿHøWRBLOCKERZBUG

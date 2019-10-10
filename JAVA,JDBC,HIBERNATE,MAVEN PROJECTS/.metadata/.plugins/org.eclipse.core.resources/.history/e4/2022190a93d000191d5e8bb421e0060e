@@ -1,0 +1,46 @@
+package com.dev.practise;
+
+import java.util.HashSet;
+
+//import com.dev.collection.Employee;
+
+public class Employee implements EmployeeInterface {
+
+	HashSet<Employee> hs=new HashSet<Employee>();
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void add() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void remove() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void retrive() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void contains() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

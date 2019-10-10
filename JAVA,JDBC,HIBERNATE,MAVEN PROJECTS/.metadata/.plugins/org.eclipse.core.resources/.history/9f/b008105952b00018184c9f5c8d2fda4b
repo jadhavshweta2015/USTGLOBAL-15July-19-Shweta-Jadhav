@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+
+public class Fibonacci {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter the number:");
+		int n=s.nextInt();
+		int t0=0,t1=1;
+		System.out.println("First "+n+" element");
+		for(int i=0;i<=n;i++)
+		{
+			System.out.print(t0+"+");
+			int sum=t0+t1;
+			
+			t0=t1;
+			t1=sum;
+			
+		}
+		
+	}
+
+}

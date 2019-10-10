@@ -1,0 +1,35 @@
+
+Gsquid:S1220""Move this file to a named package.HâVRMINORZ
+CODE_SMELL
+„squid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öè§úùÿÿÿÿHãVRMINORZ
+CODE_SMELL
+Ssquid:S1659"!Declare "sum" on a separate line.(ëÿßôýÿÿÿÿHäVRMINORZ
+CODE_SMELL
+esquid:S1197"8Move the array designator from the variable to the type.(Ê§…®HåVRMINORZ
+CODE_SMELL
+csquid:S1135
+"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHæVRINFOZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ê¿ÆHçVRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŽÃêŸHèVRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÐƒÄHéVRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÛá»ùÿÿÿÿHêVRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(“©ÄÅÿÿÿÿÿHëVRMAJORZ
+CODE_SMELL
+d
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÐƒÄHìVRMAJORZ
+CODE_SMELL
+e
+squid:S106<"9Replace this use of System.out or System.err by a logger.(þß©ÂHíVRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿHîVRMAJORZ
+CODE_SMELL

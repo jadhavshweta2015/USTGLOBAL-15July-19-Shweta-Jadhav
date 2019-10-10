@@ -1,0 +1,36 @@
+
+j
+squid:S106/"9Replace this use of System.out or System.err by a logger.(úÙÉäüÿÿÿÿHÅWRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅìÑšıÿÿÿÿHÆWRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÕÒÊıÿÿÿÿHÇWRMAJORZ
+CODE_SMELL
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Ê ÙáøÿÿÿÿHÈWRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ˜ØèÿÿÿÿÿHÉWRMAJORZ
+CODE_SMELL
+csquid:S1135:"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÊWRINFOZ
+CODE_SMELL
+Xsquid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHËWRMINORZVULNERABILITY
+Xsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÌWRMINORZVULNERABILITY
+Xsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÍWRMINORZVULNERABILITY
+e
+squid:S106,"9Replace this use of System.out or System.err by a logger.(˜Í ¥HÎWRMAJORZ
+CODE_SMELL
+e
+squid:S106."9Replace this use of System.out or System.err by a logger.(±óÚßHÏWRMAJORZ
+CODE_SMELL
+Xsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHĞWRMINORZVULNERABILITY
+csquid:S1135J"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÑWRINFOZ
+CODE_SMELL
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(àú«ˆşÿÿÿÿHÒWRBLOCKERZVULNERABILITY
+j
+squid:S1060"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿHÓWRMAJORZ
+CODE_SMELL
+csquid:S1135B"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÔWRINFOZ
+CODE_SMELL

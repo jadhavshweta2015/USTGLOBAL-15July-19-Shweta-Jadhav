@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;defaultconstructor&apos; to &apos;Java Program/src&apos;&#x0D;&#x0A;- Original project: &apos;Project Constructor&apos;&#x0D;&#x0A;- Destination element: &apos;Java Program/src&apos;&#x0D;&#x0A;- Original element: &apos;Project Constructor/src/defaultconstructor&apos;" description="Copy package" destination="=Java Program/src" element1="/src&lt;defaultconstructor" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1527778077919" version="1.0"/>
+</session>

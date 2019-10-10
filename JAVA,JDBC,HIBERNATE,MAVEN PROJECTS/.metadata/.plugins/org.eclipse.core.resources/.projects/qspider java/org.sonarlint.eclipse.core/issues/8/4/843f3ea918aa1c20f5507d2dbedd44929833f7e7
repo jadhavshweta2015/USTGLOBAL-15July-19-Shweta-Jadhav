@@ -1,0 +1,17 @@
+
+Hsquid:S1643"Use a StringBuilder instead.(¼ğH‰VRMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯êù”HŠVRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH‹VRINFOZ
+CODE_SMELL
+j
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(×¬ÍœúÿÿÿÿHŒVRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÒªÿøÿÿÿÿHVRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÊ…øÿÿÿÿHVRMAJORZ
+CODE_SMELL

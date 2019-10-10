@@ -1,0 +1,13 @@
+package com.dev.practise;
+
+public class Emp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		EmployeeData ed=new EmployeeData();
+		ed.add();
+		ed.remove();
+		ed.update();
+	}
+
+}

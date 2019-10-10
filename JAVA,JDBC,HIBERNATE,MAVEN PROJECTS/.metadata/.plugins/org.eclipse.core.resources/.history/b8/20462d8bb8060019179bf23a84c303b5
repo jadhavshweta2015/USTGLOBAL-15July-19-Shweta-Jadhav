@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+
+public class BubbleSort {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 int[] a=new int[50];
+		 int size,i,temp;
+		 Scanner s=new Scanner(System.in);
+		 System.out.println("Enter size:");
+		 size=s.nextInt();
+		 System.out.println("Enter element:");
+		 for(i=0;i<size;i++)
+		 {
+			 a[i]=s.nextInt();
+		 }
+		 for(i=0;i<size;i++)
+		 {
+			 
+			 for(int j=0;j<size-1-i;j++)
+			 {
+				 if(a[j]>a[j+1])
+				 {
+					 temp=a[j];
+					 a[j]=a[j+1];
+					 a[j+1]=temp;
+					 
+				 }
+			 }
+		 }
+		 for(i=0;i<size;i++)
+		 {
+			 System.out.println(a[i]+" ");
+		 }
+	}
+
+}
